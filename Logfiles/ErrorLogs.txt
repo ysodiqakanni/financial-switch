@@ -1,0 +1,552 @@
+Error: could not execute query
+[ SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row ]
+  Name:p1 - Value:  Name:p2 - Value:0  Name:p3 - Value:10
+[SQL: SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row] Inner Exception: System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:96aedfce-7a74-44a4-b692-11c35b73c400
+Error Number:-2,State:0,Class:11 15/Jan/2017 10:29:44 PM
+
+Error: could not execute query
+[ SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row ]
+  Name:p1 - Value:  Name:p2 - Value:0  Name:p3 - Value:10
+[SQL: SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row] Inner Exception: System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:96aedfce-7a74-44a4-b692-11c35b73c400
+Error Number:-2,State:0,Class:11 15/Jan/2017 10:30:27 PM
+
+Error: could not execute query
+[ SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row ]
+  Name:p1 - Value:  Name:p2 - Value:0  Name:p3 - Value:10
+[SQL: SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row] Inner Exception: System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:d54ca465-b7b4-43fe-a318-f3a38084abbb
+Error Number:-2,State:0,Class:11 15/Jan/2017 10:30:57 PM
+
+Error: could not execute query
+[ SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row ]
+  Name:p1 - Value:  Name:p2 - Value:0  Name:p3 - Value:10
+[SQL: SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row] Inner Exception: System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:d54ca465-b7b4-43fe-a318-f3a38084abbb
+Error Number:-2,State:0,Class:11 15/Jan/2017 10:31:35 PM
+
+Error: could not execute query
+[ SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row ]
+  Name:p1 - Value:  Name:p2 - Value:0  Name:p3 - Value:10
+[SQL: SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row] Inner Exception: System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:7ac81aba-b709-40c9-b234-7af1480c38cb
+Error Number:-2,State:0,Class:11 15/Jan/2017 10:32:14 PM
+
+Error: could not execute query
+[ SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row ]
+  Name:p1 - Value:  Name:p2 - Value:0  Name:p3 - Value:10
+[SQL: SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row] Inner Exception: System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:7ac81aba-b709-40c9-b234-7af1480c38cb
+Error Number:-2,State:0,Class:11 15/Jan/2017 10:33:56 PM
+
+Error: could not execute query
+[ SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row ]
+  Name:p1 - Value:  Name:p2 - Value:0  Name:p3 - Value:10
+[SQL: SELECT TOP (@p0) ID1_0_, DateCr2_0_, DateMo3_0_, Name4_0_, Code5_0_, Descri6_0_ FROM (select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Channel] channel0_ where lower(channel0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row] Inner Exception: System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:3414c8f4-1d8d-4988-a658-d5c42e8b967e
+Error Number:-2,State:0,Class:11 15/Jan/2017 10:34:26 PM
+
+Error: Message: could not execute query
+[ select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_ from [Channel] channel0_ ]
+[SQL: select channel0_.ID as ID1_0_, channel0_.DateCreated as DateCr2_0_, channel0_.DateModified as DateMo3_0_, channel0_.Name as Name4_0_, channel0_.Code as Code5_0_, channel0_.Description as Descri6_0_ from [Channel] channel0_]   InnerException = System.Data.SqlClient.SqlException (0x80131904): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.ComponentModel.Win32Exception (0x80004005): The wait operation timed out
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:3735b98c-bd4e-4ce7-9890-e55906287817
+Error Number:-2,State:0,Class:11 15/Jan/2017 10:38:39 PM
+
+Error: could not execute query
+[ SELECT TOP (@p0) ID1_2_, DateCr2_2_, DateMo3_2_, Name4_2_, FlatAm5_2_, Percen6_2_, Maximu7_2_, Minimu8_2_ FROM (select fee0_.ID as ID1_2_, fee0_.DateCreated as DateCr2_2_, fee0_.DateModified as DateMo3_2_, fee0_.Name as Name4_2_, fee0_.FlatAmmount as FlatAm5_2_, fee0_.PercentageOfTransaction as Percen6_2_, fee0_.Maximum as Maximu7_2_, fee0_.Minimum as Minimu8_2_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Fee] fee0_ where lower(fee0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row ]
+  Name:p1 - Value:  Name:p2 - Value:0  Name:p3 - Value:10
+[SQL: SELECT TOP (@p0) ID1_2_, DateCr2_2_, DateMo3_2_, Name4_2_, FlatAm5_2_, Percen6_2_, Maximu7_2_, Minimu8_2_ FROM (select fee0_.ID as ID1_2_, fee0_.DateCreated as DateCr2_2_, fee0_.DateModified as DateMo3_2_, fee0_.Name as Name4_2_, fee0_.FlatAmmount as FlatAm5_2_, fee0_.PercentageOfTransaction as Percen6_2_, fee0_.Maximum as Maximu7_2_, fee0_.Minimum as Minimu8_2_, ROW_NUMBER() OVER(ORDER BY CURRENT_TIMESTAMP) as __hibernate_sort_row from [Fee] fee0_ where lower(fee0_.Name)=@p1) as query WHERE query.__hibernate_sort_row > @p2 ORDER BY query.__hibernate_sort_row] System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Fee'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:3e8a42a2-a753-46ce-aa83-c6f15bfb2b9d
+Error Number:208,State:1,Class:16 17/Jan/2017 03:20:53 PM
+
+Error: Message= could not execute query
+[ select sinknode0_.ID as ID1_5_, sinknode0_.DateCreated as DateCr2_5_, sinknode0_.DateModified as DateMo3_5_, sinknode0_.Name as Name4_5_, sinknode0_.HostName as HostNa5_5_, sinknode0_.IpAddress as IpAddr6_5_, sinknode0_.Port as Port7_5_, sinknode0_.Status as Status8_5_, sinknode0_.NodeType as NodeTy9_5_ from [SinkNode] sinknode0_ ]
+[SQL: select sinknode0_.ID as ID1_5_, sinknode0_.DateCreated as DateCr2_5_, sinknode0_.DateModified as DateMo3_5_, sinknode0_.Name as Name4_5_, sinknode0_.HostName as HostNa5_5_, sinknode0_.IpAddress as IpAddr6_5_, sinknode0_.Port as Port7_5_, sinknode0_.Status as Status8_5_, sinknode0_.NodeType as NodeTy9_5_ from [SinkNode] sinknode0_]    InnerException=  System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'SinkNode'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:d846cd38-b65f-49e3-b85e-7a29e05afaeb
+Error Number:208,State:1,Class:16 17/Jan/2017 03:36:51 PM
+
+Error: Message= could not execute query
+[ select sinknode0_.ID as ID1_5_, sinknode0_.DateCreated as DateCr2_5_, sinknode0_.DateModified as DateMo3_5_, sinknode0_.Name as Name4_5_, sinknode0_.HostName as HostNa5_5_, sinknode0_.IpAddress as IpAddr6_5_, sinknode0_.Port as Port7_5_, sinknode0_.Status as Status8_5_, sinknode0_.NodeType as NodeTy9_5_ from [SinkNode] sinknode0_ ]
+[SQL: select sinknode0_.ID as ID1_5_, sinknode0_.DateCreated as DateCr2_5_, sinknode0_.DateModified as DateMo3_5_, sinknode0_.Name as Name4_5_, sinknode0_.HostName as HostNa5_5_, sinknode0_.IpAddress as IpAddr6_5_, sinknode0_.Port as Port7_5_, sinknode0_.Status as Status8_5_, sinknode0_.NodeType as NodeTy9_5_ from [SinkNode] sinknode0_]    InnerException=  System.Data.SqlClient.SqlException (0x80131904): Invalid object name 'SinkNode'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   at NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   at NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   at NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies, IResultTransformer forcedResultTransformer)
+   at NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters, IResultTransformer forcedResultTransformer)
+ClientConnectionId:d846cd38-b65f-49e3-b85e-7a29e05afaeb
+Error Number:208,State:1,Class:16 17/Jan/2017 03:37:10 PM
+
+Error:  17/Jan/2017 04:17:38 PM
+
+Error:  17/Jan/2017 04:19:08 PM
+
+Error:  17/Jan/2017 04:19:17 PM
+
+Error:  17/Jan/2017 04:20:25 PM
+
+Error:  17/Jan/2017 04:20:32 PM
+
+Error: Error sending message: Can't format field number 28. 17/Jan/2017 04:52:13 PM
+
+Error: Error sending message Can't format field number 28.   Inner Exception:  System.ArgumentException: Unexpected bigger data length.
+Parameter name: data
+   at Trx.Utilities.StringPaddingLeft.Pad(String data, Int32 totalWidth)
+   at Trx.Messaging.StringFieldFormatter.Format(Field field, FormatterContext& formatterContext)
+   at Trx.Messaging.BasicMessageFormatter.Format(Message message, FormatterContext& formatterContext) 17/Jan/2017 04:52:13 PM
+
+Error: Error sending message: Can't format field number 28. 17/Jan/2017 04:56:46 PM
+
+Error: Error sending message Can't format field number 28.   Inner Exception:  System.ArgumentException: Unexpected bigger data length.
+Parameter name: data
+   at Trx.Utilities.StringPaddingLeft.Pad(String data, Int32 totalWidth)
+   at Trx.Messaging.StringFieldFormatter.Format(Field field, FormatterContext& formatterContext)
+   at Trx.Messaging.BasicMessageFormatter.Format(Message message, FormatterContext& formatterContext) 17/Jan/2017 04:56:46 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 02:57:23 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 02:57:42 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 02:57:55 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 02:57:57 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 02:57:57 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 02:57:59 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 02:57:59 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 02:59:53 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:01 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:01 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:17 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:17 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:18 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:18 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:18 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:18 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:19 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:19 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:26 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:00:26 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:33:08 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:34:05 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 03:34:05 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:17:43 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:19:18 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:23:09 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:23:22 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:23:22 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:23:23 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:23:23 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:23:32 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:31:36 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:33:42 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:33:42 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:33:44 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:33:44 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:34:08 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 04:48:45 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 04:57:01 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 04:57:09 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 04:58:22 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 04:58:29 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 04:58:29 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 04:58:32 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 04:58:33 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 04:58:57 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 04:58:58 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 04:59:08 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 07:21:04 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 07:21:13 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 07:21:13 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 07:23:10 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 07:23:16 PM
+
+Error: Object reference not set to an instance of an object.  18/Jan/2017 07:23:39 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:26:50 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:26:59 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:00 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:02 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:02 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:05 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:06 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:14 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:14 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:17 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:18 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:19 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:19 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:21 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:21 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:26 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:41 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:46 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:47 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:53 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:54 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:56 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:27:56 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:28:01 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:33:24 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:33:27 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:33:27 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:33:28 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:33:28 PM
+
+Error: PartialEvalException (NullReferenceException ("Object reference not set to an instance of an object."), null.ID)  18/Jan/2017 07:33:34 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 02:42:24 PM
+
+Error: Error sending message Can't format field number 28.   Inner Exception:  System.ArgumentException: Unexpected bigger data length.
+Parameter name: data
+   at Trx.Utilities.StringPaddingLeft.Pad(String data, Int32 totalWidth)
+   at Trx.Messaging.StringFieldFormatter.Format(Field field, FormatterContext& formatterContext)
+   at Trx.Messaging.BasicMessageFormatter.Format(Message message, FormatterContext& formatterContext) 19/Jan/2017 02:43:25 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 02:47:15 PM
+
+Error: Error sending message Can't format field number 28.   Inner Exception:  System.ArgumentException: Unexpected bigger data length.
+Parameter name: data
+   at Trx.Utilities.StringPaddingLeft.Pad(String data, Int32 totalWidth)
+   at Trx.Messaging.StringFieldFormatter.Format(Field field, FormatterContext& formatterContext)
+   at Trx.Messaging.BasicMessageFormatter.Format(Message message, FormatterContext& formatterContext) 19/Jan/2017 02:51:00 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 02:59:02 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:03:35 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:07:11 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:10:39 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:12:14 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:27:53 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:27:53 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:32:33 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:32:34 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:33:08 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:33:09 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:34:44 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:34:45 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:35:00 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:35:01 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:35:16 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:35:18 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:38:41 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:38:42 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:40:32 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:40:32 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:40:45 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:40:45 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:40:55 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:40:55 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:42:59 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:48:36 PM
+
+Error: Transaction log failed Input string was not in a correct format.   Inner Exception:   19/Jan/2017 05:49:17 PM
+

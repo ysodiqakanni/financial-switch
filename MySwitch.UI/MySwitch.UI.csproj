@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{25310F33-6D1F-4F3B-9E22-CE84FDC70261}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MySwitch.UI</RootNamespace>
+    <AssemblyName>MySwitch.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AppZoneUI.Framework, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\Switch\Patrick\Switch\SwitchWeb\bin\AppZoneUI.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="CuttingEdge.ServiceLocation">
+      <HintPath>..\MySwitch\bin\CuttingEdge.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus">
+      <HintPath>..\MySwitch\bin\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="Ext.Net">
+      <HintPath>..\MySwitch\bin\Ext.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Ext.Net.Utilities">
+      <HintPath>..\MySwitch\bin\Ext.Net.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\..\..\..\..\Desktop\Switch\AppZone UI Framework Docmentation\AppZone UI Framework Docmentation\bin\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\MySwitch\bin\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\MySwitch\bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Transformer.NET">
+      <HintPath>..\MySwitch\bin\Transformer.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="WebActivatorEx">
+      <HintPath>..\MySwitch\bin\WebActivatorEx.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChannelUI\AddUI.cs" />
+    <Compile Include="ChannelUI\DetailsUI.cs" />
+    <Compile Include="ChannelUI\EditUI.cs" />
+    <Compile Include="ChannelUI\IndexUI.cs" />
+    <Compile Include="ComboUI\DetailsUI.cs" />
+    <Compile Include="ComboUI\EditUI.cs" />
+    <Compile Include="ComboUI\IndexUI.cs" />
+    <Compile Include="FeeUI\AddUI.cs" />
+    <Compile Include="FeeUI\DetailsUI.cs" />
+    <Compile Include="FeeUI\EditUI.cs" />
+    <Compile Include="FeeUI\IndexUI.cs" />
+    <Compile Include="Lesson1UI.cs" />
+    <Compile Include="Models\ChannelUIModels\ViewChannelUIModel.cs" />
+    <Compile Include="Models\ComboUIModels\ViewComboUIModel.cs" />
+    <Compile Include="Models\FeeUIModels\AddFeeUIModel.cs" />
+    <Compile Include="Models\FeeUIModels\ViewFeeUIModel.cs" />
+    <Compile Include="Models\Lesson1UIModel.cs" />
+    <Compile Include="Models\RouteUIModels\ViewRoutesUIModel.cs" />
+    <Compile Include="Models\SchemeUIModel\SchemeDetailsUIModel.cs" />
+    <Compile Include="Models\SchemeUIModel\ViewSchemesUIModel.cs" />
+    <Compile Include="Models\SinkNodeUIModels\ViewSinkNodeUIModel.cs" />
+    <Compile Include="Models\SourceNodeUIModels\AddSourceNode.cs" />
+    <Compile Include="Models\SourceNodeUIModels\ViewSourceNodeUIModel.cs" />
+    <Compile Include="Models\TransactionLogUI\ViewTransactionLogUIModel.cs" />
+    <Compile Include="Models\TransactionTypeUIModels\ViewTransactionTypeUIModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RouteUI\AddUI.cs" />
+    <Compile Include="RouteUI\DetailsUI.cs" />
+    <Compile Include="RouteUI\EditUI.cs" />
+    <Compile Include="RouteUI\IndexUI.cs" />
+    <Compile Include="SchemeUI\AddUI.cs" />
+    <Compile Include="ComboUI\CreateComboUI.cs" />
+    <Compile Include="SchemeUI\DetailsUI.cs" />
+    <Compile Include="SchemeUI\EditUI.cs" />
+    <Compile Include="SchemeUI\IndexUI.cs" />
+    <Compile Include="SinkNodeUI\AddUI.cs" />
+    <Compile Include="SinkNodeUI\DetailsUI.cs" />
+    <Compile Include="SinkNodeUI\EditUI.cs" />
+    <Compile Include="SinkNodeUI\IndexUI.cs" />
+    <Compile Include="SourceNodeUI\AddUI.cs" />
+    <Compile Include="SourceNodeUI\DetailsUI.cs" />
+    <Compile Include="SourceNodeUI\EditUI.cs" />
+    <Compile Include="SourceNodeUI\IndexUI.cs" />
+    <Compile Include="TransactionLogUI\DetailsUI.cs" />
+    <Compile Include="TransactionLogUI\IndexUI.cs" />
+    <Compile Include="TransactionTypeUI\AddUI.cs" />
+    <Compile Include="TransactionTypeUI\DetailsUI.cs" />
+    <Compile Include="TransactionTypeUI\EditUI.cs" />
+    <Compile Include="TransactionTypeUI\IndexUI.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MySwitch.Core\MySwitch.Core.csproj">
+      <Project>{1d12b961-9e9f-4b2e-a873-a6d099ebfdf2}</Project>
+      <Name>MySwitch.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MySwitch.Data\MySwitch.Data.csproj">
+      <Project>{a4cb6a28-7254-46e8-b450-63c19821987a}</Project>
+      <Name>MySwitch.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MySwitch.Logic\MySwitch.Logic.csproj">
+      <Project>{80d6d7ae-4788-4886-8957-8b6fd9099dd9}</Project>
+      <Name>MySwitch.Logic</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySwitch.UI", "MySwitch.UI\MySwitch.UI.csproj", "{25310F33-6D1F-4F3B-9E22-CE84FDC70261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySwitch.Core", "MySwitch.Core\MySwitch.Core.csproj", "{1D12B961-9E9F-4B2E-A873-A6D099EBFDF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySwitch.Data", "MySwitch.Data\MySwitch.Data.csproj", "{A4CB6A28-7254-46E8-B450-63C19821987A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySwitch.Logic", "MySwitch.Logic\MySwitch.Logic.csproj", "{80D6D7AE-4788-4886-8957-8B6FD9099DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySwitch", "MySwitch\MySwitch.csproj", "{E2C4FD6D-5BD9-4589-BD59-1F828FC7E515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySwitch.Engine", "MySwitch.Processor\MySwitch.Engine.csproj", "{E12B4021-0DF4-424C-A7FB-1C126989BA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{6BFBF6E7-4838-4D88-B1D3-CD494F7EA91E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25310F33-6D1F-4F3B-9E22-CE84FDC70261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25310F33-6D1F-4F3B-9E22-CE84FDC70261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25310F33-6D1F-4F3B-9E22-CE84FDC70261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25310F33-6D1F-4F3B-9E22-CE84FDC70261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D12B961-9E9F-4B2E-A873-A6D099EBFDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D12B961-9E9F-4B2E-A873-A6D099EBFDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D12B961-9E9F-4B2E-A873-A6D099EBFDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D12B961-9E9F-4B2E-A873-A6D099EBFDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CB6A28-7254-46E8-B450-63C19821987A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CB6A28-7254-46E8-B450-63C19821987A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CB6A28-7254-46E8-B450-63C19821987A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CB6A28-7254-46E8-B450-63C19821987A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D6D7AE-4788-4886-8957-8B6FD9099DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D6D7AE-4788-4886-8957-8B6FD9099DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D6D7AE-4788-4886-8957-8B6FD9099DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D6D7AE-4788-4886-8957-8B6FD9099DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C4FD6D-5BD9-4589-BD59-1F828FC7E515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C4FD6D-5BD9-4589-BD59-1F828FC7E515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C4FD6D-5BD9-4589-BD59-1F828FC7E515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C4FD6D-5BD9-4589-BD59-1F828FC7E515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E12B4021-0DF4-424C-A7FB-1C126989BA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12B4021-0DF4-424C-A7FB-1C126989BA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12B4021-0DF4-424C-A7FB-1C126989BA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12B4021-0DF4-424C-A7FB-1C126989BA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BFBF6E7-4838-4D88-B1D3-CD494F7EA91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFBF6E7-4838-4D88-B1D3-CD494F7EA91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFBF6E7-4838-4D88-B1D3-CD494F7EA91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFBF6E7-4838-4D88-B1D3-CD494F7EA91E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

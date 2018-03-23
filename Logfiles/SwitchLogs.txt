@@ -1,0 +1,2229 @@
+Validating incoming message... 09/Jan/2017 09:35:31 AM
+
+Transaction log -> 436718 1/9/2017 8:35:33 AM 09/Jan/2017 09:35:34 AM
+
+Transaction log -> 436718 1/9/2017 8:35:34 AM 09/Jan/2017 09:35:34 AM
+
+Sending response back to the source... 09/Jan/2017 09:35:45 AM
+
+Transaction log -> 436718 1/9/2017 8:36:25 AM 09/Jan/2017 09:36:26 AM
+
+Validating incoming message... 09/Jan/2017 01:29:04 PM
+
+Transaction log -> 603045 1/9/2017 12:29:06 PM 09/Jan/2017 01:29:06 PM
+
+Transaction log -> 603045 1/9/2017 12:29:06 PM 09/Jan/2017 01:29:06 PM
+
+Sending response back to the source... 09/Jan/2017 01:29:21 PM
+
+Transaction log -> 603045 1/9/2017 12:30:03 PM 09/Jan/2017 01:30:03 PM
+
+Validating incoming message... 10/Jan/2017 11:45:48 AM
+
+Transaction log -> 2302 1/10/2017 10:45:49 AM 10/Jan/2017 11:45:50 AM
+
+Transaction log -> 2302 1/10/2017 10:45:50 AM 10/Jan/2017 11:45:50 AM
+
+Sending response back to the source... 10/Jan/2017 11:46:05 AM
+
+Transaction log -> 2302 1/10/2017 10:46:41 AM 10/Jan/2017 11:46:41 AM
+
+Validating incoming message... 10/Jan/2017 11:47:04 AM
+
+Transaction log -> 845874 1/10/2017 10:47:04 AM 10/Jan/2017 11:47:04 AM
+
+Clientpeer is null 10/Jan/2017 11:47:04 AM
+
+Validating incoming message... 10/Jan/2017 11:53:17 AM
+
+Transaction log -> 42941 1/10/2017 10:53:19 AM 10/Jan/2017 11:53:19 AM
+
+Clientpeer is null 10/Jan/2017 11:53:19 AM
+
+Validating incoming message... 10/Jan/2017 11:58:21 AM
+
+Transaction log -> 699106 1/10/2017 10:58:23 AM 10/Jan/2017 11:58:23 AM
+
+Clientpeer is null 10/Jan/2017 11:58:23 AM
+
+Validating incoming message... 10/Jan/2017 12:02:20 PM
+
+Transaction log -> 699106 1/10/2017 11:02:23 AM 10/Jan/2017 12:02:23 PM
+
+Clientpeer is null 10/Jan/2017 12:03:42 PM
+
+Sending response back to the source... 10/Jan/2017 12:03:48 PM
+
+Validating incoming message... 10/Jan/2017 12:05:25 PM
+
+Transaction log -> 23223 1/10/2017 11:05:27 AM 10/Jan/2017 12:05:27 PM
+
+Connection timeout. 10/Jan/2017 12:07:04 PM
+
+Transaction log -> 23223 1/10/2017 11:07:04 AM 10/Jan/2017 12:07:05 PM
+
+Sending response back to the source... 10/Jan/2017 12:07:15 PM
+
+Transaction log -> 23223 1/10/2017 11:07:48 AM 10/Jan/2017 12:07:48 PM
+
+Validating incoming message... 10/Jan/2017 12:11:14 PM
+
+Transaction log -> 288300 1/10/2017 11:11:15 AM 10/Jan/2017 12:11:16 PM
+
+Connection timeout. 10/Jan/2017 12:11:54 PM
+
+Transaction log -> 288300 1/10/2017 11:11:54 AM 10/Jan/2017 12:11:54 PM
+
+Sending response back to the source... 10/Jan/2017 12:11:59 PM
+
+Validating incoming message... 10/Jan/2017 12:12:22 PM
+
+Transaction log -> 204023 1/10/2017 11:12:22 AM 10/Jan/2017 12:12:22 PM
+
+Transaction log -> 288300 1/10/2017 11:12:33 AM 10/Jan/2017 12:12:34 PM
+
+Transaction log -> 204023 1/10/2017 11:12:47 AM 10/Jan/2017 12:12:47 PM
+
+Sending response back to the source... 10/Jan/2017 12:12:49 PM
+
+Transaction log -> 204023 1/10/2017 11:13:22 AM 10/Jan/2017 12:13:22 PM
+
+Validating incoming message... 10/Jan/2017 12:16:12 PM
+
+Transaction log -> 642042 1/10/2017 11:16:13 AM 10/Jan/2017 12:16:13 PM
+
+Transaction log -> 642042 1/10/2017 11:16:13 AM 10/Jan/2017 12:16:14 PM
+
+Sending response back to the source... 10/Jan/2017 12:16:17 PM
+
+Transaction log -> 642042 1/10/2017 11:16:50 AM 10/Jan/2017 12:16:51 PM
+
+Validating incoming message... 10/Jan/2017 12:21:10 PM
+
+Transaction log -> 387729 1/10/2017 11:21:11 AM 10/Jan/2017 12:21:12 PM
+
+Transaction log -> 387729 1/10/2017 11:21:12 AM 10/Jan/2017 12:21:12 PM
+
+Sending response back to the source... 10/Jan/2017 12:21:38 PM
+
+Transaction log -> 387729 1/10/2017 11:22:12 AM 10/Jan/2017 12:22:12 PM
+
+Validating incoming message... 10/Jan/2017 12:25:09 PM
+
+Transaction log -> 782822 1/10/2017 11:25:11 AM 10/Jan/2017 12:25:11 PM
+
+Transaction log -> 782822 1/10/2017 11:25:11 AM 10/Jan/2017 12:25:12 PM
+
+Sending response back to the source... 10/Jan/2017 12:25:27 PM
+
+Transaction log -> 782822 1/10/2017 11:26:00 AM 10/Jan/2017 12:26:00 PM
+
+Validating incoming message... 10/Jan/2017 12:26:16 PM
+
+Transaction log -> 983003 1/10/2017 11:26:17 AM 10/Jan/2017 12:26:17 PM
+
+Validating incoming message... 10/Jan/2017 12:31:19 PM
+
+Transaction log -> 59749 1/10/2017 11:31:22 AM 10/Jan/2017 12:31:22 PM
+
+Transaction log -> 59749 1/10/2017 11:32:12 AM 10/Jan/2017 12:32:12 PM
+
+Sending response back to the source... 10/Jan/2017 12:32:16 PM
+
+Transaction log -> 59749 1/10/2017 11:32:48 AM 10/Jan/2017 12:32:48 PM
+
+Validating incoming message... 10/Jan/2017 12:36:54 PM
+
+Transaction log -> 731806 1/10/2017 11:36:57 AM 10/Jan/2017 12:36:57 PM
+
+Transaction log -> 731806 1/10/2017 11:37:29 AM 10/Jan/2017 12:37:30 PM
+
+Sending response back to the source... 10/Jan/2017 12:37:35 PM
+
+Transaction log -> 731806 1/10/2017 11:38:08 AM 10/Jan/2017 12:38:08 PM
+
+Validating incoming message... 10/Jan/2017 02:06:23 PM
+
+Transaction log -> 833322 1/10/2017 1:06:25 PM 10/Jan/2017 02:06:25 PM
+
+Transaction log -> 833322 1/10/2017 1:07:11 PM 10/Jan/2017 02:07:11 PM
+
+Sending response back to the source... 10/Jan/2017 02:07:19 PM
+
+Transaction log -> 833322 1/10/2017 1:07:56 PM 10/Jan/2017 02:07:56 PM
+
+Validating incoming message... 10/Jan/2017 02:12:08 PM
+
+Transaction log -> 874782 1/10/2017 1:12:09 PM 10/Jan/2017 02:12:09 PM
+
+Transaction log -> 874782 1/10/2017 1:12:26 PM 10/Jan/2017 02:12:26 PM
+
+Sending response back to the source... 10/Jan/2017 02:12:31 PM
+
+Transaction log -> 874782 1/10/2017 1:13:02 PM 10/Jan/2017 02:13:02 PM
+
+Validating incoming message... 10/Jan/2017 02:19:10 PM
+
+Transaction log -> 472589 1/10/2017 1:19:12 PM 10/Jan/2017 02:19:12 PM
+
+Transaction log -> 472589 1/10/2017 1:19:29 PM 10/Jan/2017 02:19:29 PM
+
+Sending response back to the source... 10/Jan/2017 02:19:41 PM
+
+Validating incoming message... 10/Jan/2017 02:20:07 PM
+
+Transaction log -> 46386 1/10/2017 1:20:08 PM 10/Jan/2017 02:20:08 PM
+
+Transaction log -> 472589 1/10/2017 1:20:18 PM 10/Jan/2017 02:20:18 PM
+
+Connection timeout. 10/Jan/2017 02:20:47 PM
+
+Transaction log -> 46386 1/10/2017 1:20:47 PM 10/Jan/2017 02:20:47 PM
+
+Sending response back to the source... 10/Jan/2017 02:21:01 PM
+
+Validating incoming message... 10/Jan/2017 02:21:28 PM
+
+Transaction log -> 687184 1/10/2017 1:21:28 PM 10/Jan/2017 02:21:29 PM
+
+Transaction log -> 687184 1/10/2017 1:21:29 PM 10/Jan/2017 02:21:29 PM
+
+Sending response back to the source... 10/Jan/2017 02:21:34 PM
+
+Transaction log -> 46386 1/10/2017 1:21:34 PM 10/Jan/2017 02:21:35 PM
+
+Transaction log -> 687184 1/10/2017 1:22:04 PM 10/Jan/2017 02:22:04 PM
+
+Validating incoming message... 10/Jan/2017 02:22:14 PM
+
+Transaction log -> 768991 1/10/2017 1:22:15 PM 10/Jan/2017 02:22:15 PM
+
+Connection timeout. 10/Jan/2017 02:22:52 PM
+
+Transaction log -> 768991 1/10/2017 1:22:52 PM 10/Jan/2017 02:22:52 PM
+
+Sending response back to the source... 10/Jan/2017 02:23:17 PM
+
+Transaction log -> 768991 1/10/2017 1:23:48 PM 10/Jan/2017 02:23:48 PM
+
+Validating incoming message... 10/Jan/2017 02:24:25 PM
+
+Transaction log -> 879158 1/10/2017 1:24:25 PM 10/Jan/2017 02:24:25 PM
+
+Connection timeout. 10/Jan/2017 02:25:04 PM
+
+Transaction log -> 879158 1/10/2017 1:25:04 PM 10/Jan/2017 02:25:04 PM
+
+Sending response back to the source... 10/Jan/2017 02:32:17 PM
+
+Transaction log -> 879158 1/10/2017 1:32:17 PM 10/Jan/2017 02:32:18 PM
+
+Validating incoming message... 10/Jan/2017 02:33:18 PM
+
+Transaction log -> 191392 1/10/2017 1:33:19 PM 10/Jan/2017 02:33:19 PM
+
+Connection timeout. 10/Jan/2017 02:33:56 PM
+
+Transaction log -> 191392 1/10/2017 1:33:56 PM 10/Jan/2017 02:33:56 PM
+
+Sending response back to the source... 10/Jan/2017 02:34:20 PM
+
+Transaction log -> 191392 1/10/2017 1:34:51 PM 10/Jan/2017 02:34:51 PM
+
+Validating incoming message... 10/Jan/2017 02:34:59 PM
+
+Transaction log -> 684956 1/10/2017 1:34:59 PM 10/Jan/2017 02:35:01 PM
+
+Connection timeout. 10/Jan/2017 02:35:39 PM
+
+Transaction log -> 684956 1/10/2017 1:35:39 PM 10/Jan/2017 02:35:39 PM
+
+Sending response back to the source... 10/Jan/2017 02:37:18 PM
+
+Transaction log -> 684956 1/10/2017 1:37:49 PM 10/Jan/2017 02:37:49 PM
+
+Validating incoming message... 10/Jan/2017 02:51:24 PM
+
+Transaction log -> 921891 1/10/2017 1:51:25 PM 10/Jan/2017 02:51:25 PM
+
+Connection timeout. 10/Jan/2017 02:52:05 PM
+
+Transaction log -> 921891 1/10/2017 1:52:05 PM 10/Jan/2017 02:52:05 PM
+
+Validating incoming message... 10/Jan/2017 03:01:51 PM
+
+Transaction log -> 493498 1/10/2017 2:01:52 PM 10/Jan/2017 03:01:53 PM
+
+Transaction log -> 493498 1/10/2017 2:02:09 PM 10/Jan/2017 03:02:10 PM
+
+Sending response back to the source... 10/Jan/2017 03:02:14 PM
+
+Transaction log -> 493498 1/10/2017 2:02:45 PM 10/Jan/2017 03:02:45 PM
+
+Validating incoming message... 10/Jan/2017 03:04:49 PM
+
+Transaction log -> 625912 1/10/2017 2:04:49 PM 10/Jan/2017 03:04:49 PM
+
+Connection timeout. 10/Jan/2017 03:05:55 PM
+
+Transaction log -> 625912 1/10/2017 2:05:55 PM 10/Jan/2017 03:05:55 PM
+
+Sending response back to the source... 10/Jan/2017 03:06:50 PM
+
+Transaction log -> 625912 1/10/2017 2:07:22 PM 10/Jan/2017 03:07:22 PM
+
+Validating incoming message... 10/Jan/2017 03:13:22 PM
+
+Transaction log -> 516853 1/10/2017 2:13:23 PM 10/Jan/2017 03:13:23 PM
+
+Transaction log -> 516853 1/10/2017 2:13:49 PM 10/Jan/2017 03:13:49 PM
+
+Sending response back to the source... 10/Jan/2017 03:13:52 PM
+
+Transaction log -> 516853 1/10/2017 2:14:25 PM 10/Jan/2017 03:14:26 PM
+
+Validating incoming message... 10/Jan/2017 05:13:51 PM
+
+Transaction log -> 894309 1/10/2017 4:13:53 PM 10/Jan/2017 05:13:53 PM
+
+Validating incoming message... 10/Jan/2017 05:33:27 PM
+
+Transaction log -> 114085 1/10/2017 4:33:29 PM 10/Jan/2017 05:33:29 PM
+
+Transaction log -> 114085 1/10/2017 4:33:29 PM 10/Jan/2017 05:33:29 PM
+
+Sending response back to the source... 10/Jan/2017 05:33:29 PM
+
+Transaction log -> 114085 1/10/2017 4:34:00 PM 10/Jan/2017 05:34:00 PM
+
+Validating incoming message... 10/Jan/2017 05:34:01 PM
+
+Transaction log -> 641042 1/10/2017 4:34:01 PM 10/Jan/2017 05:34:01 PM
+
+Validating incoming message... 10/Jan/2017 06:01:46 PM
+
+Transaction log -> 63129 1/10/2017 5:01:55 PM 10/Jan/2017 06:01:58 PM
+
+Validating incoming message... 10/Jan/2017 06:05:28 PM
+
+Transaction log -> 603753 1/10/2017 5:05:35 PM 10/Jan/2017 06:05:35 PM
+
+Transaction log -> 603753 1/10/2017 5:05:35 PM 10/Jan/2017 06:05:36 PM
+
+Sending response back to the source... 10/Jan/2017 06:05:36 PM
+
+Validating incoming message... 10/Jan/2017 06:05:50 PM
+
+Transaction log -> 402209 1/10/2017 5:05:53 PM 10/Jan/2017 06:05:53 PM
+
+Transaction log -> 603753 1/10/2017 5:06:07 PM 10/Jan/2017 06:06:07 PM
+
+Validating incoming message... 10/Jan/2017 06:09:15 PM
+
+Transaction log -> 759995 1/10/2017 5:09:28 PM 10/Jan/2017 06:09:33 PM
+
+Route is null. 10/Jan/2017 06:10:02 PM
+
+Transaction log -> 759995 1/10/2017 5:10:02 PM 10/Jan/2017 06:10:04 PM
+
+Sending response back to the source... 10/Jan/2017 06:10:04 PM
+
+Transaction log -> 759995 1/10/2017 5:10:36 PM 10/Jan/2017 06:10:37 PM
+
+Validating incoming message... 10/Jan/2017 06:14:41 PM
+
+Transaction log -> 308673 1/10/2017 5:14:45 PM 10/Jan/2017 06:14:46 PM
+
+Transaction log -> 308673 1/10/2017 5:15:12 PM 10/Jan/2017 06:15:13 PM
+
+Sending response back to the source... 10/Jan/2017 06:15:13 PM
+
+Transaction log -> 308673 1/10/2017 5:15:44 PM 10/Jan/2017 06:15:44 PM
+
+Validating incoming message... 10/Jan/2017 06:16:33 PM
+
+Transaction log -> 626247 1/10/2017 5:16:34 PM 10/Jan/2017 06:16:35 PM
+
+Transaction log -> 626247 1/10/2017 5:17:01 PM 10/Jan/2017 06:17:02 PM
+
+Sending response back to the source... 10/Jan/2017 06:17:02 PM
+
+Validating incoming message... 10/Jan/2017 06:17:19 PM
+
+Transaction log -> 740088 1/10/2017 5:17:20 PM 10/Jan/2017 06:17:22 PM
+
+Transaction log -> 626247 1/10/2017 5:17:33 PM 10/Jan/2017 06:17:33 PM
+
+Connection timeout. 10/Jan/2017 06:18:30 PM
+
+Transaction log -> 740088 1/10/2017 5:18:30 PM 10/Jan/2017 06:18:30 PM
+
+Sending response back to the source... 10/Jan/2017 06:18:30 PM
+
+Transaction log -> 740088 1/10/2017 5:19:02 PM 10/Jan/2017 06:19:03 PM
+
+Validating incoming message... 10/Jan/2017 06:44:34 PM
+
+Transaction log -> 788347 1/10/2017 5:44:37 PM 10/Jan/2017 06:44:37 PM
+
+Connection timeout. 10/Jan/2017 06:45:47 PM
+
+Transaction log -> 788347 1/10/2017 5:45:47 PM 10/Jan/2017 06:45:47 PM
+
+Sending response back to the source... 10/Jan/2017 06:45:47 PM
+
+Validating incoming message... 10/Jan/2017 08:32:15 PM
+
+Transaction log -> 832100 1/10/2017 7:32:16 PM 10/Jan/2017 08:32:17 PM
+
+Connection timeout. 10/Jan/2017 08:33:27 PM
+
+Transaction log -> 832100 1/10/2017 7:33:27 PM 10/Jan/2017 08:33:27 PM
+
+Sending response back to the source... 10/Jan/2017 08:33:27 PM
+
+Transaction log -> 832100 1/10/2017 7:33:58 PM 10/Jan/2017 08:33:58 PM
+
+Validating incoming message... 10/Jan/2017 08:37:54 PM
+
+Transaction log -> 966060 1/10/2017 7:37:55 PM 10/Jan/2017 08:37:55 PM
+
+Transaction log -> 966060 1/10/2017 7:37:55 PM 10/Jan/2017 08:37:55 PM
+
+Sending response back to the source... 10/Jan/2017 08:37:55 PM
+
+Validating incoming message... 10/Jan/2017 08:38:06 PM
+
+Transaction log -> 208335 1/10/2017 7:38:06 PM 10/Jan/2017 08:38:06 PM
+
+Transaction log -> 208335 1/10/2017 7:38:22 PM 10/Jan/2017 08:38:22 PM
+
+Sending response back to the source... 10/Jan/2017 08:38:22 PM
+
+Transaction log -> 966060 1/10/2017 7:38:26 PM 10/Jan/2017 08:38:26 PM
+
+Transaction log -> 208335 1/10/2017 7:38:53 PM 10/Jan/2017 08:38:53 PM
+
+Validating incoming message... 10/Jan/2017 08:39:34 PM
+
+Transaction log -> 278265 1/10/2017 7:39:35 PM 10/Jan/2017 08:39:35 PM
+
+Transaction log -> 278265 1/10/2017 7:39:49 PM 10/Jan/2017 08:39:49 PM
+
+Sending response back to the source... 10/Jan/2017 08:39:49 PM
+
+Transaction log -> 278265 1/10/2017 7:40:21 PM 10/Jan/2017 08:40:21 PM
+
+Validating incoming message... 10/Jan/2017 08:41:41 PM
+
+Transaction log -> 57866 1/10/2017 7:41:41 PM 10/Jan/2017 08:41:41 PM
+
+Transaction log -> 57866 1/10/2017 7:42:01 PM 10/Jan/2017 08:42:02 PM
+
+Sending response back to the source... 10/Jan/2017 08:42:02 PM
+
+Transaction log -> 57866 1/10/2017 7:42:32 PM 10/Jan/2017 08:42:32 PM
+
+Validating incoming message... 10/Jan/2017 08:44:00 PM
+
+Transaction log -> 806049 1/10/2017 7:44:01 PM 10/Jan/2017 08:44:01 PM
+
+Transaction log -> 806049 1/10/2017 7:44:19 PM 10/Jan/2017 08:44:19 PM
+
+Sending response back to the source... 10/Jan/2017 08:44:19 PM
+
+Validating incoming message... 10/Jan/2017 08:44:47 PM
+
+Transaction log -> 648144 1/10/2017 7:44:47 PM 10/Jan/2017 08:44:47 PM
+
+Transaction log -> 806049 1/10/2017 7:44:54 PM 10/Jan/2017 08:44:54 PM
+
+Connection timeout. 10/Jan/2017 08:45:53 PM
+
+Transaction log -> 648144 1/10/2017 7:45:53 PM 10/Jan/2017 08:45:53 PM
+
+Sending response back to the source... 10/Jan/2017 08:45:53 PM
+
+Transaction log -> 648144 1/10/2017 7:46:24 PM 10/Jan/2017 08:46:24 PM
+
+Validating incoming message... 10/Jan/2017 08:48:40 PM
+
+Transaction log -> 979882 1/10/2017 7:48:41 PM 10/Jan/2017 08:48:41 PM
+
+Transaction log -> 979882 1/10/2017 7:49:07 PM 10/Jan/2017 08:49:07 PM
+
+Sending response back to the source... 10/Jan/2017 08:49:07 PM
+
+Transaction log -> 979882 1/10/2017 7:49:37 PM 10/Jan/2017 08:49:37 PM
+
+Validating incoming message... 10/Jan/2017 08:51:25 PM
+
+Transaction log -> 864405 1/10/2017 7:51:25 PM 10/Jan/2017 08:51:25 PM
+
+Transaction log -> 864405 1/10/2017 7:51:38 PM 10/Jan/2017 08:51:38 PM
+
+Sending response back to the source... 10/Jan/2017 08:51:38 PM
+
+Transaction log -> 864405 1/10/2017 7:52:09 PM 10/Jan/2017 08:52:09 PM
+
+Validating incoming message... 10/Jan/2017 09:00:19 PM
+
+Transaction log -> 220551 1/10/2017 8:00:20 PM 10/Jan/2017 09:00:20 PM
+
+Transaction log -> 220551 1/10/2017 8:00:40 PM 10/Jan/2017 09:00:40 PM
+
+Sending response back to the source... 10/Jan/2017 09:00:40 PM
+
+Transaction log -> 220551 1/10/2017 8:01:11 PM 10/Jan/2017 09:01:11 PM
+
+Validating incoming message... 11/Jan/2017 09:34:16 AM
+
+Transaction log -> 546 1/11/2017 8:34:18 AM 11/Jan/2017 09:34:18 AM
+
+Transaction log -> 546 1/11/2017 8:34:42 AM 11/Jan/2017 09:34:42 AM
+
+Sending response back to the source... 11/Jan/2017 09:34:46 AM
+
+Transaction log -> 546 1/11/2017 11:21:49 AM 11/Jan/2017 12:21:50 PM
+
+Validating incoming message... 11/Jan/2017 12:25:13 PM
+
+Transaction log -> 417066 1/11/2017 11:25:15 AM 11/Jan/2017 12:25:15 PM
+
+Transaction log -> 417066 1/11/2017 11:25:15 AM 11/Jan/2017 12:25:15 PM
+
+Sending response back to the source... 11/Jan/2017 12:25:19 PM
+
+Validating incoming message... 11/Jan/2017 12:25:35 PM
+
+Transaction log -> 498998 1/11/2017 11:25:35 AM 11/Jan/2017 12:25:35 PM
+
+Transaction log -> 417066 1/11/2017 11:25:49 AM 11/Jan/2017 12:25:49 PM
+
+Connection timeout. 11/Jan/2017 12:26:39 PM
+
+Transaction log -> 498998 1/11/2017 11:26:39 AM 11/Jan/2017 12:26:39 PM
+
+Sending response back to the source... 11/Jan/2017 12:26:46 PM
+
+Transaction log -> 498998 1/11/2017 11:27:16 AM 11/Jan/2017 12:27:16 PM
+
+Validating incoming message... 11/Jan/2017 12:28:07 PM
+
+Transaction log -> 184196 1/11/2017 11:28:08 AM 11/Jan/2017 12:28:08 PM
+
+Validating incoming message... 11/Jan/2017 12:33:19 PM
+
+Transaction log -> 579753 1/11/2017 11:33:22 AM 11/Jan/2017 12:33:23 PM
+
+Connection timeout. 11/Jan/2017 12:34:28 PM
+
+Transaction log -> 579753 1/11/2017 11:34:28 AM 11/Jan/2017 12:34:28 PM
+
+Sending response back to the source... 11/Jan/2017 12:34:47 PM
+
+Transaction log -> 579753 1/11/2017 11:35:20 AM 11/Jan/2017 12:35:21 PM
+
+Validating incoming message... 11/Jan/2017 12:37:32 PM
+
+Transaction log -> 962596 1/11/2017 11:37:32 AM 11/Jan/2017 12:37:33 PM
+
+Connection timeout. 11/Jan/2017 12:38:38 PM
+
+Transaction log -> 962596 1/11/2017 11:38:38 AM 11/Jan/2017 12:38:38 PM
+
+Sending response back to the source... 11/Jan/2017 12:40:00 PM
+
+Validating incoming message... 11/Jan/2017 12:45:08 PM
+
+Transaction log -> 178020 1/11/2017 11:45:15 AM 11/Jan/2017 12:45:16 PM
+
+Transaction log -> 178020 1/11/2017 11:46:03 AM 11/Jan/2017 12:46:03 PM
+
+Sending response back to the source... 11/Jan/2017 12:46:11 PM
+
+Transaction log -> 178020 1/11/2017 11:46:44 AM 11/Jan/2017 12:46:44 PM
+
+Validating incoming message... 11/Jan/2017 12:47:04 PM
+
+Transaction log -> 883867 1/11/2017 11:47:04 AM 11/Jan/2017 12:47:04 PM
+
+Transaction log -> 883867 1/11/2017 11:47:37 AM 11/Jan/2017 12:47:37 PM
+
+Sending response back to the source... 11/Jan/2017 12:47:40 PM
+
+Transaction log -> 883867 1/11/2017 11:48:12 AM 11/Jan/2017 12:48:12 PM
+
+Validating incoming message... 11/Jan/2017 12:48:34 PM
+
+Transaction log -> 977279 1/11/2017 11:48:34 AM 11/Jan/2017 12:48:34 PM
+
+Transaction log -> 977279 1/11/2017 11:48:56 AM 11/Jan/2017 12:48:56 PM
+
+Sending response back to the source... 11/Jan/2017 12:48:58 PM
+
+Transaction log -> 977279 1/11/2017 11:49:29 AM 11/Jan/2017 12:49:29 PM
+
+Validating incoming message... 11/Jan/2017 12:49:34 PM
+
+Transaction log -> 577124 1/11/2017 11:49:35 AM 11/Jan/2017 12:49:35 PM
+
+Transaction log -> 577124 1/11/2017 11:49:59 AM 11/Jan/2017 12:49:59 PM
+
+Sending response back to the source... 11/Jan/2017 12:50:05 PM
+
+Transaction log -> 577124 1/11/2017 11:50:36 AM 11/Jan/2017 12:50:36 PM
+
+Validating incoming message... 11/Jan/2017 12:54:32 PM
+
+Transaction log -> 853318 1/11/2017 11:54:33 AM 11/Jan/2017 12:54:33 PM
+
+
+ Could not connect to the Sink Node. 11/Jan/2017 12:54:39 PM
+
+Transaction log -> 853318 1/11/2017 11:54:39 AM 11/Jan/2017 12:54:39 PM
+
+Sending response back to the source... 11/Jan/2017 12:54:44 PM
+
+Transaction log -> 853318 1/11/2017 11:55:15 AM 11/Jan/2017 12:55:15 PM
+
+Validating incoming message... 11/Jan/2017 12:55:31 PM
+
+Transaction log -> 248565 1/11/2017 11:55:32 AM 11/Jan/2017 12:55:32 PM
+
+Connection timeout. 11/Jan/2017 12:56:49 PM
+
+Transaction log -> 248565 1/11/2017 11:56:49 AM 11/Jan/2017 12:56:50 PM
+
+Sending response back to the source... 11/Jan/2017 12:57:18 PM
+
+Transaction log -> 248565 1/11/2017 11:57:48 AM 11/Jan/2017 12:57:48 PM
+
+Validating incoming message... 11/Jan/2017 12:58:16 PM
+
+Transaction log -> 137867 1/11/2017 11:58:17 AM 11/Jan/2017 12:58:17 PM
+
+Transaction log -> 137867 1/11/2017 11:58:47 AM 11/Jan/2017 12:58:47 PM
+
+Sending response back to the source... 11/Jan/2017 12:58:50 PM
+
+Transaction log -> 137867 1/11/2017 11:59:25 AM 11/Jan/2017 12:59:26 PM
+
+Validating incoming message... 11/Jan/2017 02:21:07 PM
+
+Transaction log -> 201972 1/11/2017 1:21:09 PM 11/Jan/2017 02:21:10 PM
+
+Transaction log -> 201972 1/11/2017 1:22:02 PM 11/Jan/2017 02:22:02 PM
+
+Sending response back to the source... 11/Jan/2017 02:22:06 PM
+
+Transaction log -> 201972 1/11/2017 1:22:36 PM 11/Jan/2017 02:22:36 PM
+
+Validating incoming message... 11/Jan/2017 02:26:10 PM
+
+Transaction log -> 40976 1/11/2017 1:26:14 PM 11/Jan/2017 02:26:15 PM
+
+Transaction log -> 40976 1/11/2017 1:26:15 PM 11/Jan/2017 02:26:16 PM
+
+Sending response back to the source... 11/Jan/2017 02:26:35 PM
+
+Transaction log -> 40976 1/11/2017 1:27:05 PM 11/Jan/2017 02:27:05 PM
+
+Validating incoming message... 11/Jan/2017 02:28:14 PM
+
+Transaction log -> 202371 1/11/2017 1:28:14 PM 11/Jan/2017 02:28:15 PM
+
+Transaction log -> 202371 1/11/2017 1:28:15 PM 11/Jan/2017 02:28:15 PM
+
+Sending response back to the source... 11/Jan/2017 02:28:22 PM
+
+Transaction log -> 202371 1/11/2017 1:28:59 PM 11/Jan/2017 02:28:59 PM
+
+Validating incoming message... 11/Jan/2017 02:53:50 PM
+
+Transaction log -> 776376 1/11/2017 1:53:52 PM 11/Jan/2017 02:53:53 PM
+
+Transaction log -> 776376 1/11/2017 1:53:53 PM 11/Jan/2017 02:53:53 PM
+
+Sending response back to the source... 11/Jan/2017 02:54:04 PM
+
+Validating incoming message... 11/Jan/2017 02:54:21 PM
+
+Transaction log -> 521139 1/11/2017 1:54:23 PM 11/Jan/2017 02:54:23 PM
+
+Transaction log -> 776376 1/11/2017 1:54:36 PM 11/Jan/2017 02:54:36 PM
+
+Transaction log -> 521139 1/11/2017 1:55:03 PM 11/Jan/2017 02:55:03 PM
+
+Sending response back to the source... 11/Jan/2017 02:55:07 PM
+
+Transaction log -> 521139 1/11/2017 1:55:38 PM 11/Jan/2017 02:55:39 PM
+
+Validating incoming message... 11/Jan/2017 02:56:10 PM
+
+Transaction log -> 251459 1/11/2017 1:56:12 PM 11/Jan/2017 02:56:12 PM
+
+Transaction log -> 251459 1/11/2017 1:57:13 PM 11/Jan/2017 02:57:13 PM
+
+Sending response back to the source... 11/Jan/2017 02:57:17 PM
+
+Transaction log -> 251459 1/11/2017 1:57:49 PM 11/Jan/2017 02:57:49 PM
+
+Validating incoming message... 11/Jan/2017 03:01:18 PM
+
+Transaction log -> 681391 1/11/2017 2:01:19 PM 11/Jan/2017 03:01:19 PM
+
+Connection timeout. 11/Jan/2017 03:02:23 PM
+
+Transaction log -> 681391 1/11/2017 2:02:23 PM 11/Jan/2017 03:02:23 PM
+
+Sending response back to the source... 11/Jan/2017 03:02:30 PM
+
+Validating incoming message... 11/Jan/2017 03:03:00 PM
+
+Transaction log -> 81021 1/11/2017 2:03:02 PM 11/Jan/2017 03:03:02 PM
+
+Transaction log -> 681391 1/11/2017 2:03:02 PM 11/Jan/2017 03:03:02 PM
+
+Connection timeout. 11/Jan/2017 03:04:11 PM
+
+Transaction log -> 81021 1/11/2017 2:04:11 PM 11/Jan/2017 03:04:11 PM
+
+Sending response back to the source... 11/Jan/2017 03:04:15 PM
+
+Transaction log -> 81021 1/11/2017 2:04:51 PM 11/Jan/2017 03:04:53 PM
+
+Validating incoming message... 11/Jan/2017 03:06:36 PM
+
+Transaction log -> 216613 1/11/2017 2:06:37 PM 11/Jan/2017 03:06:38 PM
+
+Transaction log -> 216613 1/11/2017 2:06:54 PM 11/Jan/2017 03:06:54 PM
+
+Sending response back to the source... 11/Jan/2017 03:06:57 PM
+
+Transaction log -> 216613 1/11/2017 2:07:28 PM 11/Jan/2017 03:07:28 PM
+
+Validating incoming message... 11/Jan/2017 03:07:42 PM
+
+Transaction log -> 72164 1/11/2017 2:07:42 PM 11/Jan/2017 03:07:42 PM
+
+Transaction log -> 72164 1/11/2017 2:08:39 PM 11/Jan/2017 03:08:39 PM
+
+Sending response back to the source... 11/Jan/2017 03:14:46 PM
+
+Transaction log -> 72164 1/11/2017 2:14:48 PM 11/Jan/2017 03:14:48 PM
+
+Validating incoming message... 11/Jan/2017 03:15:53 PM
+
+Transaction log -> 276050 1/11/2017 2:15:53 PM 11/Jan/2017 03:15:54 PM
+
+Transaction log -> 276050 1/11/2017 2:15:54 PM 11/Jan/2017 03:15:54 PM
+
+Sending response back to the source... 11/Jan/2017 03:16:01 PM
+
+Validating incoming message... 11/Jan/2017 03:16:18 PM
+
+Transaction log -> 272624 1/11/2017 2:16:20 PM 11/Jan/2017 03:16:20 PM
+
+Transaction log -> 276050 1/11/2017 2:16:33 PM 11/Jan/2017 03:16:33 PM
+
+Transaction log -> 272624 1/11/2017 2:16:53 PM 11/Jan/2017 03:16:53 PM
+
+Sending response back to the source... 11/Jan/2017 03:16:55 PM
+
+Transaction log -> 272624 1/11/2017 2:17:26 PM 11/Jan/2017 03:17:26 PM
+
+Validating incoming message... 11/Jan/2017 03:26:29 PM
+
+Transaction log -> 701445 1/11/2017 2:26:31 PM 11/Jan/2017 03:26:31 PM
+
+Transaction log -> 701445 1/11/2017 2:27:19 PM 11/Jan/2017 03:27:19 PM
+
+Sending response back to the source... 11/Jan/2017 03:27:27 PM
+
+Transaction log -> 701445 1/11/2017 2:27:58 PM 11/Jan/2017 03:27:58 PM
+
+Validating incoming message... 11/Jan/2017 03:41:44 PM
+
+Transaction log -> 811050 1/11/2017 2:41:45 PM 11/Jan/2017 03:41:45 PM
+
+Transaction log -> 811050 1/11/2017 2:42:25 PM 11/Jan/2017 03:42:25 PM
+
+Sending response back to the source... 11/Jan/2017 03:42:33 PM
+
+Transaction log -> 811050 1/11/2017 2:43:04 PM 11/Jan/2017 03:43:04 PM
+
+Validating incoming message... 11/Jan/2017 03:43:53 PM
+
+Transaction log -> 958744 1/11/2017 2:43:54 PM 11/Jan/2017 03:43:55 PM
+
+Transaction log -> 958744 1/11/2017 2:44:16 PM 11/Jan/2017 03:44:16 PM
+
+Sending response back to the source... 11/Jan/2017 03:44:20 PM
+
+Transaction log -> 958744 1/11/2017 2:44:51 PM 11/Jan/2017 03:44:51 PM
+
+Validating incoming message... 11/Jan/2017 03:44:55 PM
+
+Transaction log -> 503933 1/11/2017 2:44:56 PM 11/Jan/2017 03:44:56 PM
+
+Transaction log -> 503933 1/11/2017 2:45:54 PM 11/Jan/2017 03:45:54 PM
+
+Sending response back to the source... 11/Jan/2017 03:46:06 PM
+
+Transaction log -> 503933 1/11/2017 2:46:37 PM 11/Jan/2017 03:46:37 PM
+
+Validating incoming message... 11/Jan/2017 04:18:24 PM
+
+Validating message... 11/Jan/2017 04:18:26 PM
+
+
+Reversal message! 11/Jan/2017 04:18:26 PM
+
+Original Data Element: 4203456500111151826 11/Jan/2017 04:18:28 PM
+
+
+ Transaction log not found 11/Jan/2017 04:18:28 PM
+
+Sending response back to the source... 11/Jan/2017 04:18:39 PM
+
+Transaction log -> 345650 1/11/2017 3:19:10 PM 11/Jan/2017 04:19:11 PM
+
+Validating incoming message... 11/Jan/2017 04:25:22 PM
+
+Validating message... 11/Jan/2017 04:25:24 PM
+
+
+Reversal message! 11/Jan/2017 04:25:24 PM
+
+Original Data Element: 4205901740111152524 11/Jan/2017 04:25:25 PM
+
+
+ Transaction log not found 11/Jan/2017 04:25:25 PM
+
+Sending response back to the source... 11/Jan/2017 04:25:29 PM
+
+Transaction log -> 590174 1/11/2017 3:26:02 PM 11/Jan/2017 04:26:02 PM
+
+Validating incoming message... 11/Jan/2017 04:28:34 PM
+
+Validating message... 11/Jan/2017 04:28:35 PM
+
+Sending response back to the source... 11/Jan/2017 04:29:11 PM
+
+Transaction log -> 540367 1/11/2017 3:29:42 PM 11/Jan/2017 04:29:42 PM
+
+Validating incoming message... 11/Jan/2017 04:32:24 PM
+
+Validating message... 11/Jan/2017 04:32:25 PM
+
+Sending response back to the source... 11/Jan/2017 04:32:51 PM
+
+Transaction log -> 19489 1/11/2017 3:33:22 PM 11/Jan/2017 04:33:22 PM
+
+Validating incoming message... 11/Jan/2017 04:33:57 PM
+
+Validating message... 11/Jan/2017 04:33:58 PM
+
+Connection timeout. 11/Jan/2017 04:35:08 PM
+
+Sending response back to the source... 11/Jan/2017 04:35:17 PM
+
+Transaction log -> 325922 1/11/2017 3:35:48 PM 11/Jan/2017 04:35:48 PM
+
+Validating incoming message... 11/Jan/2017 04:36:54 PM
+
+Validating message... 11/Jan/2017 04:36:55 PM
+
+Connection timeout. 11/Jan/2017 04:38:02 PM
+
+Sending response back to the source... 11/Jan/2017 04:38:04 PM
+
+Transaction log -> 192580 1/11/2017 3:38:36 PM 11/Jan/2017 04:38:36 PM
+
+Validating incoming message... 11/Jan/2017 04:40:45 PM
+
+Validating message... 11/Jan/2017 04:40:46 PM
+
+Connection timeout. 11/Jan/2017 04:41:49 PM
+
+Sending response back to the source... 11/Jan/2017 04:41:52 PM
+
+Transaction log -> 369126 1/11/2017 3:42:23 PM 11/Jan/2017 04:42:23 PM
+
+Validating incoming message... 11/Jan/2017 04:43:05 PM
+
+Validating message... 11/Jan/2017 04:43:06 PM
+
+Connection timeout. 11/Jan/2017 04:44:11 PM
+
+Sending response back to the source... 11/Jan/2017 04:44:19 PM
+
+Transaction log -> 403715 1/11/2017 3:44:51 PM 11/Jan/2017 04:44:52 PM
+
+Validating incoming message... 11/Jan/2017 05:46:49 PM
+
+Validating message... 11/Jan/2017 05:46:51 PM
+
+Connection timeout. 11/Jan/2017 05:48:03 PM
+
+Sending response back to the source... 11/Jan/2017 05:48:21 PM
+
+Transaction log -> 563473 1/11/2017 4:48:52 PM 11/Jan/2017 05:48:53 PM
+
+Validating incoming message... 11/Jan/2017 05:48:58 PM
+
+Validating message... 11/Jan/2017 05:48:59 PM
+
+Connection timeout. 11/Jan/2017 05:50:04 PM
+
+Sending response back to the source... 11/Jan/2017 05:50:16 PM
+
+Transaction log -> 841762 1/11/2017 4:50:47 PM 11/Jan/2017 05:50:48 PM
+
+Validating incoming message... 11/Jan/2017 05:52:24 PM
+
+Validating message... 11/Jan/2017 05:52:25 PM
+
+Connection timeout. 11/Jan/2017 05:53:31 PM
+
+Sending response back to the source... 11/Jan/2017 05:53:34 PM
+
+Transaction log -> 344242 1/11/2017 4:54:06 PM 11/Jan/2017 05:54:06 PM
+
+Validating incoming message... 11/Jan/2017 06:22:56 PM
+
+Validating message... 11/Jan/2017 06:22:58 PM
+
+Sending response back to the source... 11/Jan/2017 06:23:44 PM
+
+Validating incoming message... 11/Jan/2017 06:24:13 PM
+
+Validating message... 11/Jan/2017 06:24:13 PM
+
+Transaction log -> 38389 1/11/2017 5:24:24 PM 11/Jan/2017 06:24:24 PM
+
+Connection timeout. 11/Jan/2017 06:25:18 PM
+
+Sending response back to the source... 11/Jan/2017 06:25:22 PM
+
+Validating incoming message... 11/Jan/2017 06:25:49 PM
+
+Validating message... 11/Jan/2017 06:25:50 PM
+
+Transaction log -> 913033 1/11/2017 5:25:59 PM 11/Jan/2017 06:26:02 PM
+
+Transaction log -> 963027 1/11/2017 5:26:27 PM 11/Jan/2017 06:26:27 PM
+
+Sending response back to the source... 11/Jan/2017 06:26:47 PM
+
+Transaction log -> 963027 1/11/2017 5:27:18 PM 11/Jan/2017 06:27:18 PM
+
+Validating incoming message... 11/Jan/2017 06:35:19 PM
+
+Validating message... 11/Jan/2017 06:35:20 PM
+
+Connection timeout. 11/Jan/2017 06:36:28 PM
+
+Sending response back to the source... 11/Jan/2017 06:36:39 PM
+
+Validating incoming message... 11/Jan/2017 06:37:03 PM
+
+Validating message... 11/Jan/2017 06:37:04 PM
+
+Transaction log -> 931856 1/11/2017 5:37:12 PM 11/Jan/2017 06:37:12 PM
+
+Sending response back to the source... 11/Jan/2017 06:37:29 PM
+
+Validating incoming message... 11/Jan/2017 06:37:57 PM
+
+Validating message... 11/Jan/2017 06:37:58 PM
+
+Transaction log -> 258967 1/11/2017 5:38:04 PM 11/Jan/2017 06:38:05 PM
+
+Transaction log -> 431282 1/11/2017 5:38:18 PM 11/Jan/2017 06:38:18 PM
+
+Sending response back to the source... 11/Jan/2017 06:38:23 PM
+
+Transaction log -> 431282 1/11/2017 5:38:54 PM 11/Jan/2017 06:38:54 PM
+
+Validating incoming message... 11/Jan/2017 06:40:01 PM
+
+Validating message... 11/Jan/2017 06:40:02 PM
+
+Transaction log -> 203418 1/11/2017 5:40:33 PM 11/Jan/2017 06:40:33 PM
+
+Sending response back to the source... 11/Jan/2017 06:40:37 PM
+
+Transaction log -> 203418 1/11/2017 5:41:08 PM 11/Jan/2017 06:41:08 PM
+
+Receiving new Message... 11/Jan/2017 09:33:31 PM
+
+Validating incoming message... 11/Jan/2017 09:33:31 PM
+
+Validating message... 11/Jan/2017 09:33:34 PM
+
+Sending response back to the source... 11/Jan/2017 09:33:51 PM
+
+Receiving new Message... 11/Jan/2017 09:36:08 PM
+
+Validating incoming message... 11/Jan/2017 09:36:08 PM
+
+Validating message... 11/Jan/2017 09:36:09 PM
+
+Logging the transaction... 11/Jan/2017 09:36:27 PM
+
+Transaction logged! -> ODE= 000000000000000000000000200325270111203609 Amount: 100500 Date: 1/11/2017 8:36:28 PM 11/Jan/2017 09:36:42 PM
+
+Sending response back to the source... 11/Jan/2017 09:36:46 PM
+
+Receiving new Message... 11/Jan/2017 09:41:02 PM
+
+Validating incoming message... 11/Jan/2017 09:41:02 PM
+
+Validating message... 11/Jan/2017 09:41:03 PM
+
+
+Reversal message! 11/Jan/2017 09:41:03 PM
+
+Original Data Element: 420325270111204103 11/Jan/2017 09:41:03 PM
+
+
+ Transaction log not found 11/Jan/2017 09:41:03 PM
+
+Sending response back to the source... 11/Jan/2017 09:41:13 PM
+
+Receiving new Message... 11/Jan/2017 09:51:37 PM
+
+Validating incoming message... 11/Jan/2017 09:51:37 PM
+
+Receiving new Message... 11/Jan/2017 09:59:54 PM
+
+Validating incoming message... 11/Jan/2017 09:59:54 PM
+
+Validating message... 11/Jan/2017 10:00:28 PM
+
+Logging the transaction... 11/Jan/2017 10:00:45 PM
+
+Transaction logged! -> ODE= 000000000000000000000002008768020111205956 Amount: 300000 Date: 1/11/2017 9:00:47 PM 11/Jan/2017 10:01:24 PM
+
+Sending response back to the source... 11/Jan/2017 10:01:30 PM
+
+Receiving new Message... 11/Jan/2017 10:11:47 PM
+
+Validating incoming message... 11/Jan/2017 10:11:47 PM
+
+Validating message... 11/Jan/2017 10:11:54 PM
+
+Logging the transaction... 11/Jan/2017 10:12:07 PM
+
+Transaction logged! -> ODE= 2002423280111211149 Amount: 300 Date: 1/11/2017 9:12:08 PM 11/Jan/2017 10:12:19 PM
+
+Sending response back to the source... 11/Jan/2017 10:12:21 PM
+
+Receiving new Message... 11/Jan/2017 10:15:11 PM
+
+Validating incoming message... 11/Jan/2017 10:15:11 PM
+
+Validating message... 11/Jan/2017 10:15:25 PM
+
+Connection timeout. 11/Jan/2017 10:16:29 PM
+
+Sending response back to the source... 11/Jan/2017 10:16:34 PM
+
+Receiving new Message... 11/Jan/2017 10:17:32 PM
+
+Validating incoming message... 11/Jan/2017 10:17:32 PM
+
+Validating message... 11/Jan/2017 10:17:38 PM
+
+
+Reversal message! 11/Jan/2017 10:17:38 PM
+
+Original Data Element: 000000000000000000000002002423280111211149 11/Jan/2017 10:17:38 PM
+
+
+ Transaction log not found 11/Jan/2017 10:17:38 PM
+
+Sending response back to the source... 11/Jan/2017 10:18:01 PM
+
+Receiving new Message... 11/Jan/2017 10:21:13 PM
+
+Validating incoming message... 11/Jan/2017 10:21:13 PM
+
+Validating message... 11/Jan/2017 10:21:29 PM
+
+
+Reversal message! 11/Jan/2017 10:21:30 PM
+
+Original Data Element: 000000000000000000000002002423280111211149 11/Jan/2017 10:21:43 PM
+
+
+ Transaction log not found 11/Jan/2017 10:21:43 PM
+
+Sending response back to the source... 11/Jan/2017 10:26:44 PM
+
+Receiving new Message... 11/Jan/2017 10:26:46 PM
+
+Validating incoming message... 11/Jan/2017 10:26:46 PM
+
+Validating message... 11/Jan/2017 10:27:02 PM
+
+
+Reversal message! 11/Jan/2017 10:27:02 PM
+
+Original Data Element: 2002423280111211149 11/Jan/2017 10:27:22 PM
+
+
+ Continue with reversal 11/Jan/2017 10:27:22 PM
+
+Sending response back to the source... 11/Jan/2017 10:27:42 PM
+
+Receiving new Message... 11/Jan/2017 10:31:47 PM
+
+Validating incoming message... 11/Jan/2017 10:31:47 PM
+
+Validating message... 11/Jan/2017 10:31:51 PM
+
+Logging the transaction... 11/Jan/2017 10:32:10 PM
+
+Transaction logged! -> ODE= 2009819910111213148 Amount: 58000 Date: 1/11/2017 9:32:11 PM 11/Jan/2017 10:32:20 PM
+
+Sending response back to the source... 11/Jan/2017 10:32:25 PM
+
+Receiving new Message... 11/Jan/2017 10:34:14 PM
+
+Validating incoming message... 11/Jan/2017 10:34:14 PM
+
+Validating message... 11/Jan/2017 10:34:18 PM
+
+
+Reversal message! 11/Jan/2017 10:34:18 PM
+
+Original Data Element: 4209819910111213415 11/Jan/2017 10:34:28 PM
+
+
+ Transaction log not found 11/Jan/2017 10:34:29 PM
+
+Sending response back to the source... 11/Jan/2017 10:34:31 PM
+
+Receiving new Message... 11/Jan/2017 10:36:01 PM
+
+Validating incoming message... 11/Jan/2017 10:36:01 PM
+
+Validating message... 11/Jan/2017 10:36:05 PM
+
+
+Reversal message! 11/Jan/2017 10:36:05 PM
+
+Original Data Element: 2009819910111213148 11/Jan/2017 10:36:14 PM
+
+
+ Continue with reversal 11/Jan/2017 10:36:14 PM
+
+Connection timeout. 11/Jan/2017 10:37:16 PM
+
+Sending response back to the source... 11/Jan/2017 10:37:21 PM
+
+Receiving new Message... 11/Jan/2017 10:38:27 PM
+
+Validating incoming message... 11/Jan/2017 10:38:27 PM
+
+Validating message... 11/Jan/2017 10:38:35 PM
+
+
+Reversal message! 11/Jan/2017 10:38:35 PM
+
+Original Data Element: 2009819910111213148 11/Jan/2017 10:38:38 PM
+
+
+ Continue with reversal 11/Jan/2017 10:38:38 PM
+
+Connection timeout. 11/Jan/2017 10:39:40 PM
+
+Sending response back to the source... 11/Jan/2017 10:39:57 PM
+
+Receiving new Message... 11/Jan/2017 10:43:02 PM
+
+Validating incoming message... 11/Jan/2017 10:43:02 PM
+
+Validating message... 11/Jan/2017 10:43:05 PM
+
+
+Reversal message! 11/Jan/2017 10:43:05 PM
+
+Original Data Element: 2009819910111213148 11/Jan/2017 10:43:10 PM
+
+
+ Continue with reversal 11/Jan/2017 10:43:10 PM
+
+Connection timeout. 11/Jan/2017 10:44:16 PM
+
+Sending response back to the source... 11/Jan/2017 10:45:11 PM
+
+Receiving new Message... 11/Jan/2017 10:55:47 PM
+
+Validating incoming message... 11/Jan/2017 10:55:47 PM
+
+Validating message... 11/Jan/2017 10:57:05 PM
+
+Logging the transaction... 11/Jan/2017 10:57:26 PM
+
+Transaction logged! -> ODE= 2006160270111215548 Amount: 58000 Date: 1/11/2017 9:57:27 PM 11/Jan/2017 10:57:27 PM
+
+Sending response back to the source... 11/Jan/2017 10:57:30 PM
+
+Receiving new Message... 11/Jan/2017 10:59:43 PM
+
+Validating incoming message... 11/Jan/2017 10:59:43 PM
+
+Validating message... 11/Jan/2017 10:59:46 PM
+
+
+Reversal message! 11/Jan/2017 10:59:46 PM
+
+Original Data Element: 2006160270111215548 11/Jan/2017 11:00:18 PM
+
+
+ Continue with reversal 11/Jan/2017 11:00:18 PM
+
+Sending response back to the source... 11/Jan/2017 11:02:16 PM
+
+Receiving new Message... 11/Jan/2017 11:03:14 PM
+
+Validating incoming message... 11/Jan/2017 11:03:14 PM
+
+Validating message... 11/Jan/2017 11:03:15 PM
+
+
+Reversal message! 11/Jan/2017 11:03:15 PM
+
+Original Data Element: 2006160270111215548 11/Jan/2017 11:03:15 PM
+
+
+ Continue with reversal 11/Jan/2017 11:03:15 PM
+
+Logging the transaction... 11/Jan/2017 11:03:37 PM
+
+Transaction logged! -> ODE= 2006160270111215548 Amount: 58000.00000 Date: 1/11/2017 10:03:38 PM 11/Jan/2017 11:03:38 PM
+
+Sending response back to the source... 11/Jan/2017 11:03:44 PM
+
+Receiving new Message... 11/Jan/2017 11:06:28 PM
+
+Validating incoming message... 11/Jan/2017 11:06:28 PM
+
+Validating message... 11/Jan/2017 11:06:29 PM
+
+Logging the transaction... 11/Jan/2017 11:06:49 PM
+
+Transaction logged! -> ODE= 2001513120111220629 Amount: 400000 Date: 1/11/2017 10:06:50 PM 11/Jan/2017 11:06:50 PM
+
+Sending response back to the source... 11/Jan/2017 11:06:54 PM
+
+Receiving new Message... 11/Jan/2017 11:10:38 PM
+
+Validating incoming message... 11/Jan/2017 11:10:38 PM
+
+Validating message... 11/Jan/2017 11:10:39 PM
+
+Sending response back to the source... 11/Jan/2017 11:10:55 PM
+
+Receiving new Message... 11/Jan/2017 11:12:22 PM
+
+Validating incoming message... 11/Jan/2017 11:12:22 PM
+
+Validating message... 11/Jan/2017 11:12:22 PM
+
+Sending response back to the source... 11/Jan/2017 11:13:03 PM
+
+Receiving new Message... 11/Jan/2017 11:13:26 PM
+
+Validating incoming message... 11/Jan/2017 11:13:26 PM
+
+Validating message... 11/Jan/2017 11:13:26 PM
+
+
+Reversal message! 11/Jan/2017 11:13:27 PM
+
+Original Data Element: 2001513120111220629 11/Jan/2017 11:13:27 PM
+
+
+ Continue with reversal 11/Jan/2017 11:13:27 PM
+
+Logging the transaction... 11/Jan/2017 11:13:41 PM
+
+Transaction logged! -> ODE= 2001513120111220629 Amount: 400000.00000 Date: 1/11/2017 10:13:42 PM 11/Jan/2017 11:13:42 PM
+
+Sending response back to the source... 11/Jan/2017 11:13:50 PM
+
+Receiving new Message... 15/Jan/2017 08:11:50 AM
+
+Validating incoming message... 15/Jan/2017 08:11:50 AM
+
+Validating message... 15/Jan/2017 08:11:50 AM
+
+
+ Could not connect to the Sink Node. 15/Jan/2017 08:11:55 AM
+
+Sending response back to the source... 15/Jan/2017 08:12:14 AM
+
+Receiving new Message... 15/Jan/2017 08:12:58 AM
+
+Validating incoming message... 15/Jan/2017 08:12:58 AM
+
+Validating message... 15/Jan/2017 08:12:59 AM
+
+
+ Could not connect to the Sink Node. 15/Jan/2017 08:14:38 AM
+
+Sending response back to the source... 15/Jan/2017 08:14:46 AM
+
+Receiving new Message... 15/Jan/2017 08:15:41 AM
+
+Validating incoming message... 15/Jan/2017 08:15:42 AM
+
+Validating message... 15/Jan/2017 08:15:43 AM
+
+
+ Could not connect to the Sink Node. 15/Jan/2017 08:16:14 AM
+
+Sending response back to the source... 15/Jan/2017 08:18:12 AM
+
+Receiving new Message... 15/Jan/2017 08:19:25 AM
+
+Validating incoming message... 15/Jan/2017 08:19:25 AM
+
+Validating message... 15/Jan/2017 08:19:26 AM
+
+
+ Could not connect to the Sink Node. 15/Jan/2017 08:19:34 AM
+
+Sending response back to the source... 15/Jan/2017 08:19:37 AM
+
+Receiving new Message... 15/Jan/2017 08:20:00 AM
+
+Validating incoming message... 15/Jan/2017 08:20:00 AM
+
+Validating message... 15/Jan/2017 08:20:01 AM
+
+Receiving new Message... 15/Jan/2017 08:29:39 AM
+
+Validating incoming message... 15/Jan/2017 08:29:39 AM
+
+Validating message... 15/Jan/2017 08:29:41 AM
+
+Sending response back to the source... 15/Jan/2017 08:29:49 AM
+
+Receiving new Message... 15/Jan/2017 08:30:28 AM
+
+Validating incoming message... 15/Jan/2017 08:30:28 AM
+
+Validating message... 15/Jan/2017 08:30:29 AM
+
+
+ Could not connect to the Sink Node. 15/Jan/2017 08:31:54 AM
+
+Sending response back to the source... 15/Jan/2017 08:31:57 AM
+
+Receiving new Message... 15/Jan/2017 08:37:49 AM
+
+Validating incoming message... 15/Jan/2017 08:37:49 AM
+
+Validating message... 15/Jan/2017 08:37:51 AM
+
+Error sending message: The channel isn't connected. 15/Jan/2017 08:38:58 AM
+
+Sending response back to the source... 15/Jan/2017 08:39:01 AM
+
+Receiving new Message... 15/Jan/2017 08:42:57 AM
+
+Validating incoming message... 15/Jan/2017 08:42:57 AM
+
+Validating message... 15/Jan/2017 08:42:58 AM
+
+Receiving new Message... 15/Jan/2017 08:59:07 AM
+
+Validating incoming message... 15/Jan/2017 08:59:07 AM
+
+Validating message... 15/Jan/2017 08:59:07 AM
+
+No such secheme 15/Jan/2017 08:59:11 AM
+
+Receiving new Message... 15/Jan/2017 09:03:41 AM
+
+Validating incoming message... 15/Jan/2017 09:03:41 AM
+
+Validating message... 15/Jan/2017 09:03:42 AM
+
+Receiving new Message... 15/Jan/2017 09:08:29 AM
+
+Validating incoming message... 15/Jan/2017 09:08:29 AM
+
+Validating message... 15/Jan/2017 09:08:30 AM
+
+Sending response back to the source... 15/Jan/2017 09:09:24 AM
+
+Receiving new Message... 15/Jan/2017 09:11:02 AM
+
+Validating incoming message... 15/Jan/2017 09:11:02 AM
+
+Validating message... 15/Jan/2017 09:11:03 AM
+
+Sending response back to the source... 15/Jan/2017 09:11:10 AM
+
+Receiving new Message... 15/Jan/2017 09:20:40 AM
+
+Validating incoming message... 15/Jan/2017 09:20:40 AM
+
+Validating message... 15/Jan/2017 09:20:42 AM
+
+Invali transaction type-channel-fee combo 15/Jan/2017 09:20:42 AM
+
+Sending response back to the source... 15/Jan/2017 09:20:45 AM
+
+Receiving new Message... 15/Jan/2017 09:22:15 AM
+
+Validating incoming message... 15/Jan/2017 09:22:15 AM
+
+Validating message... 15/Jan/2017 09:22:16 AM
+
+Invali transaction type-channel-fee combo 15/Jan/2017 09:25:02 AM
+
+Sending response back to the source... 15/Jan/2017 09:25:06 AM
+
+Receiving new Message... 15/Jan/2017 09:25:26 AM
+
+Validating incoming message... 15/Jan/2017 09:25:26 AM
+
+Validating message... 15/Jan/2017 09:25:27 AM
+
+Receiving new Message... 15/Jan/2017 09:39:14 AM
+
+Validating incoming message... 15/Jan/2017 09:39:14 AM
+
+Validating message... 15/Jan/2017 09:39:15 AM
+
+Expired card 15/Jan/2017 09:39:15 AM
+
+Sending response back to the source... 15/Jan/2017 09:39:21 AM
+
+Receiving new Message... 15/Jan/2017 09:39:46 AM
+
+Validating incoming message... 15/Jan/2017 09:39:46 AM
+
+Validating message... 15/Jan/2017 09:39:46 AM
+
+Logging the transaction... 15/Jan/2017 09:39:58 AM
+
+Transaction logged! -> ODE= 200525670115083946 Amount: 300000 Date: 1/15/2017 8:39:59 AM 15/Jan/2017 09:40:00 AM
+
+Sending response back to the source... 15/Jan/2017 09:40:04 AM
+
+Receiving new Message... 15/Jan/2017 09:42:57 AM
+
+Validating incoming message... 15/Jan/2017 09:42:57 AM
+
+Validating message... 15/Jan/2017 09:42:58 AM
+
+Sending response back to the source... 15/Jan/2017 09:43:10 AM
+
+Receiving new Message... 15/Jan/2017 09:45:18 AM
+
+Validating incoming message... 15/Jan/2017 09:45:18 AM
+
+Validating message... 15/Jan/2017 09:45:19 AM
+
+Sending response back to the source... 15/Jan/2017 09:45:39 AM
+
+Receiving new Message... 15/Jan/2017 09:47:14 AM
+
+Validating incoming message... 15/Jan/2017 09:47:14 AM
+
+Validating message... 15/Jan/2017 09:47:15 AM
+
+Logging the transaction... 15/Jan/2017 09:47:26 AM
+
+Transaction logged! -> ODE= 2003557840115084715 Amount: 300000 Date: 1/15/2017 8:47:27 AM 15/Jan/2017 09:47:27 AM
+
+Sending response back to the source... 15/Jan/2017 09:47:34 AM
+
+Receiving new Message... 15/Jan/2017 09:51:19 AM
+
+Validating incoming message... 15/Jan/2017 09:51:19 AM
+
+Validating message... 15/Jan/2017 09:51:21 AM
+
+
+Reversal message! 15/Jan/2017 09:51:21 AM
+
+Original Data Element: 2003557840115084715 15/Jan/2017 09:51:21 AM
+
+
+ Continue with reversal 15/Jan/2017 09:51:21 AM
+
+Sending response back to the source... 15/Jan/2017 09:52:17 AM
+
+Receiving new Message... 15/Jan/2017 09:54:12 AM
+
+Validating incoming message... 15/Jan/2017 09:54:12 AM
+
+Validating message... 15/Jan/2017 09:54:13 AM
+
+Sending response back to the source... 15/Jan/2017 09:54:41 AM
+
+Receiving new Message... 15/Jan/2017 09:55:25 AM
+
+Validating incoming message... 15/Jan/2017 09:55:25 AM
+
+Validating message... 15/Jan/2017 09:55:26 AM
+
+Connection timeout. 15/Jan/2017 09:56:26 AM
+
+Sending response back to the source... 15/Jan/2017 09:56:33 AM
+
+Receiving new Message... 15/Jan/2017 10:08:25 AM
+
+Validating incoming message... 15/Jan/2017 10:08:25 AM
+
+Validating message... 15/Jan/2017 10:08:26 AM
+
+Logging the transaction... 15/Jan/2017 10:08:46 AM
+
+Transaction logged! -> ODE= 20030010115090826 Amount: 150000 Date: 1/15/2017 9:08:47 AM 15/Jan/2017 10:08:47 AM
+
+Sending response back to the source... 15/Jan/2017 10:08:56 AM
+
+Receiving new Message... 15/Jan/2017 10:13:45 AM
+
+Validating incoming message... 15/Jan/2017 10:13:45 AM
+
+Validating message... 15/Jan/2017 10:13:45 AM
+
+Connection timeout. 15/Jan/2017 10:14:45 AM
+
+Sending response back to the source... 15/Jan/2017 10:14:51 AM
+
+Receiving new Message... 15/Jan/2017 10:15:20 AM
+
+Validating incoming message... 15/Jan/2017 10:15:21 AM
+
+Validating message... 15/Jan/2017 10:15:22 AM
+
+
+Reversal message! 15/Jan/2017 10:15:23 AM
+
+Original Data Element: 20030010115090826 15/Jan/2017 10:15:23 AM
+
+
+ Continue with reversal 15/Jan/2017 10:15:23 AM
+
+Connection timeout. 15/Jan/2017 10:16:27 AM
+
+Sending response back to the source... 15/Jan/2017 10:16:32 AM
+
+Receiving new Message... 15/Jan/2017 10:17:49 AM
+
+Validating incoming message... 15/Jan/2017 10:17:49 AM
+
+Validating message... 15/Jan/2017 10:17:49 AM
+
+
+Reversal message! 15/Jan/2017 10:17:49 AM
+
+Original Data Element: 20030010115090826 15/Jan/2017 10:17:49 AM
+
+
+ Continue with reversal 15/Jan/2017 10:17:50 AM
+
+Expired card 15/Jan/2017 10:17:55 AM
+
+Sending response back to the source... 15/Jan/2017 10:17:59 AM
+
+Receiving new Message... 15/Jan/2017 10:18:21 AM
+
+Validating incoming message... 15/Jan/2017 10:18:21 AM
+
+Validating message... 15/Jan/2017 10:18:22 AM
+
+
+Reversal message! 15/Jan/2017 10:18:22 AM
+
+Original Data Element: 20030010115090826 15/Jan/2017 10:18:22 AM
+
+
+ Continue with reversal 15/Jan/2017 10:18:22 AM
+
+Logging the transaction... 15/Jan/2017 10:18:33 AM
+
+Transaction logged! -> ODE= 20030010115090826 Amount: 150000.00000 Date: 1/15/2017 9:18:34 AM 15/Jan/2017 10:18:34 AM
+
+Sending response back to the source... 15/Jan/2017 10:18:37 AM
+
+Receiving new Message... 15/Jan/2017 10:22:18 AM
+
+Validating incoming message... 15/Jan/2017 10:22:18 AM
+
+Validating message... 15/Jan/2017 10:22:20 AM
+
+Logging the transaction... 15/Jan/2017 10:22:36 AM
+
+Transaction logged! -> ODE= 2006466880115092220 Amount: 200000 Date: 1/15/2017 9:22:38 AM 15/Jan/2017 10:22:38 AM
+
+Sending response back to the source... 15/Jan/2017 10:22:41 AM
+
+Receiving new Message... 15/Jan/2017 10:24:02 AM
+
+Validating incoming message... 15/Jan/2017 10:24:02 AM
+
+Validating message... 15/Jan/2017 10:24:04 AM
+
+
+Reversal message! 15/Jan/2017 10:24:04 AM
+
+Original Data Element: 2006466880115092220  15/Jan/2017 10:24:04 AM
+
+
+ Continue with reversal 15/Jan/2017 10:24:04 AM
+
+Sending response back to the source... 15/Jan/2017 10:24:35 AM
+
+Receiving new Message... 15/Jan/2017 10:25:56 AM
+
+Validating incoming message... 15/Jan/2017 10:25:57 AM
+
+Validating message... 15/Jan/2017 10:25:57 AM
+
+Logging the transaction... 15/Jan/2017 10:26:12 AM
+
+Transaction logged! -> ODE= 2001758040115092557 Amount: 75000 Date: 1/15/2017 9:26:14 AM 15/Jan/2017 10:26:14 AM
+
+Sending response back to the source... 15/Jan/2017 10:26:17 AM
+
+Receiving new Message... 15/Jan/2017 10:27:13 AM
+
+Validating incoming message... 15/Jan/2017 10:27:13 AM
+
+Validating message... 15/Jan/2017 10:27:14 AM
+
+
+Reversal message! 15/Jan/2017 10:27:14 AM
+
+Original Data Element: 2006466880115092220 15/Jan/2017 10:27:15 AM
+
+
+ Continue with reversal 15/Jan/2017 10:27:15 AM
+
+Logging the transaction... 15/Jan/2017 10:27:28 AM
+
+Transaction logged! -> ODE= 2006466880115092220 Amount: 200000.00000 Date: 1/15/2017 9:27:30 AM 15/Jan/2017 10:27:30 AM
+
+Sending response back to the source... 15/Jan/2017 10:27:35 AM
+
+Receiving new Message... 16/Jan/2017 12:31:08 PM
+
+Validating incoming message... 16/Jan/2017 12:31:08 PM
+
+Validating message... 16/Jan/2017 12:31:14 PM
+
+Invalid transaction type-channel-fee combo 16/Jan/2017 12:31:18 PM
+
+Sending response back to the source... 16/Jan/2017 12:31:18 PM
+
+Receiving new Message... 16/Jan/2017 12:32:34 PM
+
+Validating incoming message... 16/Jan/2017 12:32:34 PM
+
+Validating message... 16/Jan/2017 12:32:35 PM
+
+Invalid transaction type-channel-fee combo 16/Jan/2017 12:32:36 PM
+
+Sending response back to the source... 16/Jan/2017 12:32:36 PM
+
+Receiving new Message... 16/Jan/2017 12:55:29 PM
+
+Validating incoming message... 16/Jan/2017 12:55:29 PM
+
+Validating message... 16/Jan/2017 12:55:34 PM
+
+Connection timeout. 16/Jan/2017 12:56:35 PM
+
+Sending response back to the source... 16/Jan/2017 12:56:35 PM
+
+Receiving new Message... 16/Jan/2017 01:23:13 PM
+
+Validating incoming message... 16/Jan/2017 01:23:13 PM
+
+Validating message... 16/Jan/2017 01:23:14 PM
+
+Connection timeout. 16/Jan/2017 01:24:15 PM
+
+Sending response back to the source... 16/Jan/2017 01:24:15 PM
+
+Receiving new Message... 16/Jan/2017 01:25:19 PM
+
+Validating incoming message... 16/Jan/2017 01:25:19 PM
+
+Validating message... 16/Jan/2017 01:25:21 PM
+
+Invalid transaction type-channel-fee combo 16/Jan/2017 01:25:21 PM
+
+Sending response back to the source... 16/Jan/2017 01:25:21 PM
+
+Receiving new Message... 16/Jan/2017 01:26:29 PM
+
+Validating incoming message... 16/Jan/2017 01:26:29 PM
+
+Validating message... 16/Jan/2017 01:26:30 PM
+
+Connection timeout. 16/Jan/2017 01:27:30 PM
+
+Sending response back to the source... 16/Jan/2017 01:27:30 PM
+
+Receiving new Message... 16/Jan/2017 01:29:17 PM
+
+Validating incoming message... 16/Jan/2017 01:29:17 PM
+
+Validating message... 16/Jan/2017 01:29:19 PM
+
+Connection timeout. 16/Jan/2017 01:30:19 PM
+
+Sending response back to the source... 16/Jan/2017 01:30:19 PM
+
+Receiving new Message... 16/Jan/2017 01:31:31 PM
+
+Validating incoming message... 16/Jan/2017 01:31:31 PM
+
+Validating message... 16/Jan/2017 01:31:32 PM
+
+Connection timeout. 16/Jan/2017 01:32:33 PM
+
+Sending response back to the source... 16/Jan/2017 01:32:34 PM
+
+Receiving new Message... 16/Jan/2017 01:32:55 PM
+
+Validating incoming message... 16/Jan/2017 01:32:55 PM
+
+Validating message... 16/Jan/2017 01:32:56 PM
+
+Connection timeout. 16/Jan/2017 01:34:08 PM
+
+Sending response back to the source... 16/Jan/2017 01:34:08 PM
+
+Receiving new Message... 16/Jan/2017 01:37:21 PM
+
+Validating incoming message... 16/Jan/2017 01:37:21 PM
+
+Validating message... 16/Jan/2017 01:37:22 PM
+
+Connection timeout. 16/Jan/2017 01:38:26 PM
+
+Sending response back to the source... 16/Jan/2017 01:38:26 PM
+
+Receiving new Message... 16/Jan/2017 01:38:56 PM
+
+Validating incoming message... 16/Jan/2017 01:38:56 PM
+
+Validating message... 16/Jan/2017 01:38:57 PM
+
+Connection timeout. 16/Jan/2017 01:40:45 PM
+
+Sending response back to the source... 16/Jan/2017 01:40:49 PM
+
+Receiving new Message... 16/Jan/2017 02:12:18 PM
+
+Validating incoming message... 16/Jan/2017 02:12:18 PM
+
+Validating message... 16/Jan/2017 02:12:19 PM
+
+Sending response back to the source... 16/Jan/2017 02:12:47 PM
+
+Receiving new Message... 16/Jan/2017 02:17:59 PM
+
+Validating incoming message... 16/Jan/2017 02:17:59 PM
+
+Validating message... 16/Jan/2017 02:18:00 PM
+
+Logging the transaction... 16/Jan/2017 02:18:12 PM
+
+Transaction logged! -> ODE= 2005578600116131800 Amount: 300000 Date: 1/16/2017 1:18:13 PM 16/Jan/2017 02:18:14 PM
+
+Sending response back to the source... 16/Jan/2017 02:18:14 PM
+
+Receiving new Message... 17/Jan/2017 04:48:46 PM
+
+Validating incoming message... 17/Jan/2017 04:48:46 PM
+
+Validating message... 17/Jan/2017 04:48:46 PM
+
+Expired card 17/Jan/2017 04:48:46 PM
+
+Sending response back to the source... 17/Jan/2017 04:48:46 PM
+
+Receiving new Message... 17/Jan/2017 04:49:01 PM
+
+Validating incoming message... 17/Jan/2017 04:49:01 PM
+
+Validating message... 17/Jan/2017 04:49:01 PM
+
+No such secheme 17/Jan/2017 04:49:02 PM
+
+Sending response back to the source... 17/Jan/2017 04:49:02 PM
+
+Receiving new Message... 17/Jan/2017 04:49:29 PM
+
+Validating incoming message... 17/Jan/2017 04:49:29 PM
+
+Validating message... 17/Jan/2017 04:49:29 PM
+
+No such secheme 17/Jan/2017 04:49:29 PM
+
+Sending response back to the source... 17/Jan/2017 04:49:29 PM
+
+Receiving new Message... 17/Jan/2017 04:51:11 PM
+
+Validating incoming message... 17/Jan/2017 04:51:11 PM
+
+Validating message... 17/Jan/2017 04:51:11 PM
+
+Invalid transaction type-channel-fee combo 17/Jan/2017 04:51:11 PM
+
+Sending response back to the source... 17/Jan/2017 04:51:11 PM
+
+Receiving new Message... 17/Jan/2017 04:52:13 PM
+
+Validating incoming message... 17/Jan/2017 04:52:13 PM
+
+Validating message... 17/Jan/2017 04:52:13 PM
+
+Sending response back to the source... 17/Jan/2017 04:52:13 PM
+
+Receiving new Message... 17/Jan/2017 04:56:46 PM
+
+Validating incoming message... 17/Jan/2017 04:56:46 PM
+
+Validating message... 17/Jan/2017 04:56:46 PM
+
+Sending response back to the source... 17/Jan/2017 04:56:46 PM
+
+Receiving new Message... 17/Jan/2017 05:00:20 PM
+
+Validating incoming message... 17/Jan/2017 05:00:20 PM
+
+Validating message... 17/Jan/2017 05:00:20 PM
+
+Logging the transaction... 17/Jan/2017 05:00:20 PM
+
+Transaction logged! -> ODE= 2005978080117160020 Amount: 300000 Date: 1/17/2017 4:00:20 PM 17/Jan/2017 05:00:21 PM
+
+Sending response back to the source... 17/Jan/2017 05:00:21 PM
+
+Receiving new Message... 17/Jan/2017 05:00:55 PM
+
+Validating incoming message... 17/Jan/2017 05:00:55 PM
+
+Validating message... 17/Jan/2017 05:00:56 PM
+
+Invalid transaction type-channel-fee combo 17/Jan/2017 05:00:56 PM
+
+Sending response back to the source... 17/Jan/2017 05:00:56 PM
+
+Receiving new Message... 17/Jan/2017 05:01:42 PM
+
+Validating incoming message... 17/Jan/2017 05:01:42 PM
+
+Validating message... 17/Jan/2017 05:01:42 PM
+
+Route is null. 17/Jan/2017 05:01:42 PM
+
+Sending response back to the source... 17/Jan/2017 05:01:42 PM
+
+Receiving new Message... 17/Jan/2017 05:02:37 PM
+
+Validating incoming message... 17/Jan/2017 05:02:37 PM
+
+Validating message... 17/Jan/2017 05:02:37 PM
+
+No such secheme 17/Jan/2017 05:02:37 PM
+
+Sending response back to the source... 17/Jan/2017 05:02:37 PM
+
+Receiving new Message... 17/Jan/2017 05:21:48 PM
+
+Validating incoming message... 17/Jan/2017 05:21:48 PM
+
+Validating message... 17/Jan/2017 05:21:48 PM
+
+Invalid transaction type-channel-fee combo 17/Jan/2017 05:21:48 PM
+
+Sending response back to the source... 17/Jan/2017 05:21:48 PM
+
+Receiving new Message... 17/Jan/2017 05:22:37 PM
+
+Validating incoming message... 17/Jan/2017 05:22:37 PM
+
+Validating message... 17/Jan/2017 05:22:37 PM
+
+Invalid transaction type-channel-fee combo 17/Jan/2017 05:22:37 PM
+
+Sending response back to the source... 17/Jan/2017 05:22:37 PM
+
+Receiving new Message... 17/Jan/2017 05:23:02 PM
+
+Validating incoming message... 17/Jan/2017 05:23:02 PM
+
+Validating message... 17/Jan/2017 05:23:02 PM
+
+No such secheme 17/Jan/2017 05:23:02 PM
+
+Sending response back to the source... 17/Jan/2017 05:23:02 PM
+
+Receiving new Message... 17/Jan/2017 05:25:13 PM
+
+Validating incoming message... 17/Jan/2017 05:25:13 PM
+
+Validating message... 17/Jan/2017 05:25:13 PM
+
+Connection timeout. 17/Jan/2017 05:26:13 PM
+
+Sending response back to the source... 17/Jan/2017 05:26:13 PM
+
+Receiving new Message... 17/Jan/2017 05:30:40 PM
+
+Validating incoming message... 17/Jan/2017 05:30:40 PM
+
+Validating message... 17/Jan/2017 05:30:41 PM
+
+Logging the transaction... 17/Jan/2017 05:31:02 PM
+
+Transaction logged! -> ODE= 200622000117163041 Amount: 300000 Date: 1/17/2017 4:31:02 PM 17/Jan/2017 05:31:02 PM
+
+Sending response back to the source... 17/Jan/2017 05:31:02 PM
+
+Receiving new Message... 17/Jan/2017 05:39:31 PM
+
+Validating incoming message... 17/Jan/2017 05:39:31 PM
+
+Validating message... 17/Jan/2017 05:39:31 PM
+
+Invalid transaction type-channel-fee combo 17/Jan/2017 05:39:31 PM
+
+Sending response back to the source... 17/Jan/2017 05:39:31 PM
+
+Receiving new Message... 17/Jan/2017 05:40:57 PM
+
+Validating incoming message... 17/Jan/2017 05:40:57 PM
+
+Validating message... 17/Jan/2017 05:40:57 PM
+
+Logging the transaction... 17/Jan/2017 05:40:59 PM
+
+Transaction logged! -> ODE= 2007180540117164057 Amount: 300000 Date: 1/17/2017 4:40:59 PM 17/Jan/2017 05:40:59 PM
+
+Sending response back to the source... 17/Jan/2017 05:40:59 PM
+
+Receiving new Message... 17/Jan/2017 05:42:27 PM
+
+Validating incoming message... 17/Jan/2017 05:42:27 PM
+
+Validating message... 17/Jan/2017 05:42:27 PM
+
+Sending response back to the source... 17/Jan/2017 05:42:27 PM
+
+Receiving new Message... 17/Jan/2017 05:43:35 PM
+
+Validating incoming message... 17/Jan/2017 05:43:35 PM
+
+Validating message... 17/Jan/2017 05:43:35 PM
+
+Sending response back to the source... 17/Jan/2017 05:43:35 PM
+
+Receiving new Message... 17/Jan/2017 05:43:50 PM
+
+Validating incoming message... 17/Jan/2017 05:43:50 PM
+
+Validating message... 17/Jan/2017 05:43:50 PM
+
+
+Reversal message! 17/Jan/2017 05:43:50 PM
+
+Original Data Element: 2007180540117164057 17/Jan/2017 05:43:50 PM
+
+
+ Continue with reversal 17/Jan/2017 05:43:50 PM
+
+Logging the transaction... 17/Jan/2017 05:43:52 PM
+
+Transaction logged! -> ODE= 2007180540117164057 Amount: 300000.00000 Date: 1/17/2017 4:43:52 PM 17/Jan/2017 05:43:52 PM
+
+Sending response back to the source... 17/Jan/2017 05:43:52 PM
+
+Receiving new Message... 17/Jan/2017 05:53:49 PM
+
+Validating incoming message... 17/Jan/2017 05:53:49 PM
+
+Validating message... 17/Jan/2017 05:53:49 PM
+
+Connection timeout. 17/Jan/2017 05:54:49 PM
+
+Sending response back to the source... 17/Jan/2017 05:54:49 PM
+
+Receiving new Message... 17/Jan/2017 05:55:25 PM
+
+Validating incoming message... 17/Jan/2017 05:55:25 PM
+
+Validating message... 17/Jan/2017 05:55:25 PM
+
+Logging the transaction... 17/Jan/2017 05:55:28 PM
+
+Transaction logged! -> ODE= 2007560670117165525 Amount: 100000 Date: 1/17/2017 4:55:28 PM 17/Jan/2017 05:55:28 PM
+
+Sending response back to the source... 17/Jan/2017 05:55:28 PM
+
+Receiving new Message... 17/Jan/2017 05:58:02 PM
+
+Validating incoming message... 17/Jan/2017 05:58:02 PM
+
+Validating message... 17/Jan/2017 05:58:02 PM
+
+Connection timeout. 17/Jan/2017 05:59:02 PM
+
+Sending response back to the source... 17/Jan/2017 05:59:02 PM
+
+Receiving new Message... 17/Jan/2017 05:59:38 PM
+
+Validating incoming message... 17/Jan/2017 05:59:38 PM
+
+Validating message... 17/Jan/2017 05:59:38 PM
+
+Sending response back to the source... 17/Jan/2017 05:59:40 PM
+
+Receiving new Message... 19/Jan/2017 02:15:37 PM
+
+Receiving new Message... 19/Jan/2017 02:21:20 PM
+
+Receiving new Message... 19/Jan/2017 02:27:18 PM
+
+Receiving new Message... 19/Jan/2017 02:31:27 PM
+
+Receiving new Message... 19/Jan/2017 02:33:16 PM
+
+Receiving new Message... 19/Jan/2017 02:34:01 PM
+
+Receiving new Message... 19/Jan/2017 02:35:10 PM
+
+Receiving new Message... 19/Jan/2017 02:35:57 PM
+
+Receiving new Message... 19/Jan/2017 02:42:16 PM
+
+Validating incoming message... 19/Jan/2017 02:42:32 PM
+
+Validating message... 19/Jan/2017 02:42:42 PM
+
+
+ Could not connect to the Sink Node. 19/Jan/2017 02:43:17 PM
+
+Transaction logged! -> ODE= 2002935560119134242 Amount: 300000 Date: 1/19/2017 1:43:18 PM 19/Jan/2017 02:43:19 PM
+
+Sending response back to the source... 19/Jan/2017 02:43:19 PM
+
+Receiving new Message... 19/Jan/2017 02:47:14 PM
+
+Validating incoming message... 19/Jan/2017 02:47:16 PM
+
+Validating message... 19/Jan/2017 02:47:17 PM
+
+
+ Could not connect to the Sink Node. 19/Jan/2017 02:48:02 PM
+
+Transaction logged! -> ODE= 2002700120119134716 Amount: 300000 Date: 1/19/2017 1:49:01 PM 19/Jan/2017 02:49:02 PM
+
+Sending response back to the source... 19/Jan/2017 02:49:07 PM
+
+Receiving new Message... 19/Jan/2017 02:59:01 PM
+
+Validating incoming message... 19/Jan/2017 02:59:02 PM
+
+Validating message... 19/Jan/2017 02:59:03 PM
+
+
+ Could not connect to the Sink Node. 19/Jan/2017 02:59:35 PM
+
+Transaction logged! -> ODE= 2003621870119135903 Amount: 300000 Date: 1/19/2017 1:59:36 PM 19/Jan/2017 02:59:36 PM
+
+Sending response back to the source... 19/Jan/2017 02:59:37 PM
+
+Receiving new Message... 19/Jan/2017 05:03:34 PM
+
+Validating incoming message... 19/Jan/2017 05:03:35 PM
+
+Validating message... 19/Jan/2017 05:03:35 PM
+
+Transaction logged! -> ODE= 2003945180119160335 Amount: 300000 Date: 1/19/2017 4:03:59 PM 19/Jan/2017 05:03:59 PM
+
+Sending response back to the source... 19/Jan/2017 05:03:59 PM
+
+Receiving new Message... 19/Jan/2017 05:07:10 PM
+
+Validating incoming message... 19/Jan/2017 05:07:11 PM
+
+Validating message... 19/Jan/2017 05:07:12 PM
+
+
+ Could not connect to the Sink Node. 19/Jan/2017 05:07:16 PM
+
+Transaction logged! -> ODE= 2007394640119160712 Amount: 300000 Date: 1/19/2017 4:07:16 PM 19/Jan/2017 05:07:17 PM
+
+Sending response back to the source... 19/Jan/2017 05:07:17 PM
+
+Receiving new Message... 19/Jan/2017 05:10:36 PM
+
+Validating incoming message... 19/Jan/2017 05:10:39 PM
+
+Validating message... 19/Jan/2017 05:10:41 PM
+
+Transaction logged! -> ODE= 2004036210119161041 Amount: 300000 Date: 1/19/2017 4:10:50 PM 19/Jan/2017 05:10:50 PM
+
+Sending response back to the source... 19/Jan/2017 05:10:50 PM
+
+Receiving new Message... 19/Jan/2017 05:12:13 PM
+
+Validating incoming message... 19/Jan/2017 05:12:14 PM
+
+Validating message... 19/Jan/2017 05:12:15 PM
+
+Transaction logged! -> ODE= 200500330119161215 Amount: 300000 Date: 1/19/2017 4:12:19 PM 19/Jan/2017 05:12:19 PM
+
+Sending response back to the source... 19/Jan/2017 05:12:19 PM
+
+Receiving new Message... 19/Jan/2017 05:27:52 PM
+
+Validating incoming message... 19/Jan/2017 05:27:53 PM
+
+Validating message... 19/Jan/2017 05:27:53 PM
+
+No such secheme 19/Jan/2017 05:27:53 PM
+
+Sending response back to the source... 19/Jan/2017 05:27:53 PM
+
+Receiving new Message... 19/Jan/2017 05:32:33 PM
+
+Validating incoming message... 19/Jan/2017 05:32:33 PM
+
+Validating message... 19/Jan/2017 05:32:34 PM
+
+No such secheme 19/Jan/2017 05:32:34 PM
+
+Sending response back to the source... 19/Jan/2017 05:32:34 PM
+
+Receiving new Message... 19/Jan/2017 05:33:08 PM
+
+Validating incoming message... 19/Jan/2017 05:33:09 PM
+
+Validating message... 19/Jan/2017 05:33:09 PM
+
+No such secheme 19/Jan/2017 05:33:09 PM
+
+Sending response back to the source... 19/Jan/2017 05:33:09 PM
+
+Receiving new Message... 19/Jan/2017 05:34:44 PM
+
+Validating incoming message... 19/Jan/2017 05:34:44 PM
+
+Validating message... 19/Jan/2017 05:34:44 PM
+
+No such secheme 19/Jan/2017 05:34:44 PM
+
+Sending response back to the source... 19/Jan/2017 05:34:45 PM
+
+Receiving new Message... 19/Jan/2017 05:34:59 PM
+
+Validating incoming message... 19/Jan/2017 05:35:00 PM
+
+Validating message... 19/Jan/2017 05:35:00 PM
+
+No such secheme 19/Jan/2017 05:35:01 PM
+
+Sending response back to the source... 19/Jan/2017 05:35:02 PM
+
+Receiving new Message... 19/Jan/2017 05:35:16 PM
+
+Validating incoming message... 19/Jan/2017 05:35:17 PM
+
+Validating message... 19/Jan/2017 05:35:17 PM
+
+No such secheme 19/Jan/2017 05:35:17 PM
+
+Sending response back to the source... 19/Jan/2017 05:35:18 PM
+
+Receiving new Message... 19/Jan/2017 05:38:41 PM
+
+Validating incoming message... 19/Jan/2017 05:38:41 PM
+
+Validating message... 19/Jan/2017 05:38:42 PM
+
+No such secheme 19/Jan/2017 05:38:42 PM
+
+Sending response back to the source... 19/Jan/2017 05:38:42 PM
+
+Receiving new Message... 19/Jan/2017 05:40:31 PM
+
+Validating incoming message... 19/Jan/2017 05:40:32 PM
+
+Validating message... 19/Jan/2017 05:40:32 PM
+
+No such secheme 19/Jan/2017 05:40:32 PM
+
+Sending response back to the source... 19/Jan/2017 05:40:32 PM
+
+Receiving new Message... 19/Jan/2017 05:40:45 PM
+
+Validating incoming message... 19/Jan/2017 05:40:45 PM
+
+Validating message... 19/Jan/2017 05:40:45 PM
+
+No such secheme 19/Jan/2017 05:40:45 PM
+
+Sending response back to the source... 19/Jan/2017 05:40:45 PM
+
+Receiving new Message... 19/Jan/2017 05:40:55 PM
+
+Validating incoming message... 19/Jan/2017 05:40:55 PM
+
+Validating message... 19/Jan/2017 05:40:55 PM
+
+No such secheme 19/Jan/2017 05:40:55 PM
+
+Sending response back to the source... 19/Jan/2017 05:40:55 PM
+
+Receiving new Message... 19/Jan/2017 05:42:59 PM
+
+Validating incoming message... 19/Jan/2017 05:42:59 PM
+
+Validating message... 19/Jan/2017 05:42:59 PM
+
+No such secheme 19/Jan/2017 05:48:05 PM
+
+Receiving new Message... 19/Jan/2017 05:48:36 PM
+
+Validating incoming message... 19/Jan/2017 05:48:36 PM
+
+Validating message... 19/Jan/2017 05:48:36 PM
+
+Transaction logged! -> ODE= 200596480119164836 Amount: 300000 Date: 1/19/2017 4:48:37 PM 19/Jan/2017 05:48:37 PM
+
+Sending response back to the source... 19/Jan/2017 05:48:37 PM
+
+Receiving new Message... 19/Jan/2017 05:49:17 PM
+
+Validating incoming message... 19/Jan/2017 05:49:17 PM
+
+Validating message... 19/Jan/2017 05:49:18 PM
+
+
+ Could not connect to the Sink Node. 19/Jan/2017 05:49:22 PM
+
+Transaction logged! -> ODE= 2001876830119164918 Amount: 300000 Date: 1/19/2017 4:49:22 PM 19/Jan/2017 05:49:22 PM
+
+Sending response back to the source... 19/Jan/2017 05:49:22 PM
+
